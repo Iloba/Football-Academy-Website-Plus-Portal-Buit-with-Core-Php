@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>	
        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
        <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5cd57de93255ff0012e3812e&product=sticky-share-buttons&cms=website' async='async'></script>
+       <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 </head>
 <body>
 	<nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-info shadow">
