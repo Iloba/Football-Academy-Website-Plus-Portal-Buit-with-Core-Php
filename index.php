@@ -810,7 +810,7 @@
     });
 </script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-<script src="jquery.counterup.min.js"></script> 
+<script src="js/jquery.counterup.min.js"></script> 
  <!---Change Nav on Scroll--->
     <script type="text/javascript">
      $(window).scroll(function(){
