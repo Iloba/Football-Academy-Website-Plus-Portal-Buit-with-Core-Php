@@ -159,7 +159,7 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 }
 .bg-dark.scrolled{
 	background-color: transparent;
-  transition: 750ms ease ;
+  transition: 1750ms ease;
 }
 .nav-link{
   text-transform: uppercase;
@@ -179,7 +179,7 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
   background-position: center;
 }
 .bg-dark.dark{
-  background-color:  red;
+  background-color:  #17a2b8;
 }
 .btn-yellow{
   color: #fff;

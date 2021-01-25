@@ -764,7 +764,8 @@
 							<a href="#"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a href="#"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a href="#"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
-							<a href="#"><img class="icon_size" src="img/google.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+							<a href="#"><img class="icon_size" src="img/google.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a style="font-size: 12px;" href="mailto:scarlettsney@gmail.com">Website Design@08185375580</a>
 						</div>
 							
 					</div>
@@ -813,7 +814,7 @@
  <!---Change Nav on Scroll--->
     <script type="text/javascript">
      $(window).scroll(function(){
-        $('nav').toggleClass('scrolled', $(this).scrollTop() > 100);
+        $('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
     </script>
