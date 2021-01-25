@@ -845,4 +845,8 @@ label{
 .immg{
   width: 100%;
 }
+.ivtext{
+  display: block;
+  text-align: center;
+}
 }
