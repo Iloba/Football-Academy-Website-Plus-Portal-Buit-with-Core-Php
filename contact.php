@@ -242,6 +242,5 @@
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
     </script>
-    <script src="https://unpkg.com/vue@2.5.3"></script>
 </body>
 </html>
