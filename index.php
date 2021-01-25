@@ -5,7 +5,7 @@
      <link rel="icon" href="img/logo.png">
 	<title>P & A Football Academy</title>
     <meta charset="utf-8">
-    <meta name="description" content="It's Simple to Understand P&A Football Academy, Kaduna Nigeria. It is a place for talents discovery, nurturing and exposure to the highest level of footballing possible. At P&A, we ensure the fulfilment of your God given destiny through Systematic, structured and dynamic programs designed to suit and develop an individual talent.">
+    <meta name="description" content="The Best Football Academy in Kaduna state, Nigeria. It's Simple to Understand P&A Football Academy, Kaduna Nigeria. It is a place for talents discovery, nurturing and exposure to the highest level of footballing possible. At P&A, we ensure the fulfilment of your God given destiny through Systematic, structured and dynamic programs designed to suit and develop an individual talent.">
     <meta name="keywords" content="p & a, pa, football academy, kaduna academy, printing press in kaduna, Football Academy in Kaduna, embroidery, general, contracts,
     scouting, young football stars, football academy, good players Scouting,">
     <meta name="author" content="Emeka Iloba Timothy">
@@ -15,7 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>	
        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
        <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5cd57de93255ff0012e3812e&product=sticky-share-buttons&cms=website' async='async'></script>
-       <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+       <script href="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 </head>
 <body>
 	<nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-info shadow">
@@ -73,7 +73,7 @@
                     <img style="width: 20%;" class="img-fluid" src="img/logo.png">
                     <h3 class="slider_header">P & A Football Academy</h3>
                     <p class="slider_text"> 
-                        We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
+                        We are Fully Registered with the Nigerian Football Federation and Affiliated with the Nigerian Football Federation
                         We Recruit and Market Players of Different Categories of U15, U17 U20 and Above
                     </p>
                    
@@ -804,13 +804,14 @@
      <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript">
         swal({
-          title: "Welcome! to P & A Academy",
+          title: "Welcome! to P & A Football Academy",
           text: "Enjoy your tour on our Website!",
           icon: "success",
           button: "Ok!",
     });
 </script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+ <!--Counter--->
 <script src="js/jquery.counterup.min.js"></script> 
  <!---Change Nav on Scroll--->
     <script type="text/javascript">
@@ -819,10 +820,9 @@
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
     </script>
-    <!--Counter--->
-       <script src="jquery.counterup.min" type="text/javascript"> </script>
+   
        <script>
-        $(document).ready(Function({
+        $(document).ready(function($){
             $('.counter').counterUp({
                 delay: 10,
                 time: 1000

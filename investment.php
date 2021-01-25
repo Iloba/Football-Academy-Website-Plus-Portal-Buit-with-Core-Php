@@ -61,17 +61,9 @@
              <div class="col-md-8">
                 <h3 class="text-center mandate2">P & A Investment</h3>
                 <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    Our aim is to provide the best of facilities, coaching and games programme to create a perfect environment for players to develop and reach their full potentials. We aim to develop players to play in the first team of different clubs in every part of the world as professionals and our admission process is rigorous and on a continuous basis as more talented qualified students are discovered and invited to join the academy.
+                   We are also Involved in the Production of Sporting Kits, Training Kits, Printing, Embroidery and More. Visit our Office and Nl Constitution road opposite Ahmadu Bello Stadium Kaduna.
                 </p>
-                <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    We aim to have a 120 student’s capacity hostel for the junior and senior teams in the nearest future where they will be 3 coaches for both levels. All student and coaches shall reside in the academy accommodation, those that could not complete their high school education and those that are still in high school shall join academic activities of our partner educational schools. They shall seat for WAEC, NECO and GCE and as such shall be part of the evening training. Midas Football Academy students that are part of the academy activities of our partner educational school shall observe breaks in line with the school calendar while the senior students will remain at the academy accommodation and will observe break as determined by the management. Players shall be eliminated due to any form of bad behavior or poor performance.
-                </p>
-                <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    There shall be computer training opportunities for all students of MFA; each student shall have a training kits and camp uniforms. The academy shall have a most functional and modern facilities for training and development of her students. There shall be scholarship opportunities for students with outstanding performance and educational result at top football and educational institutes in Europe and Americas. The academy shall have a well-furnished hostel accommodation with all the house hold facilities.
-                </p>
-                <p class="text-center  mtext" data-aos="fade-up" data-aos-duration="2000">
-                    here shall be a monthly award for the best player of the month an initiative already introduced in the academy since 2012, There shall be a monthly visit by ex-international across Africa to educate and enlighten the players on the effect of social vices and etc.
-                </p>
+               
             </div>
              
              <div class="col-md-2">
@@ -82,16 +74,89 @@
     </div><br>
     <h1 class="welcome text-center">Our Recent Jobs</h1>
      <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j4.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of Training Kitst</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j2.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of Training Kits</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j3.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of Training Kits</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <br> <br>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gg4.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of School Sportware </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j5.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of Training Kits</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/scc.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> Sample of School Socks</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
             
-            
+           
     </div>
-    <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-         
-    </div>
-     <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-
-    </div>
+    <br> <br>
     <footer data-aos="fade-up" data-aos-duration="2000">
 		<div class="container-fluid">
 				<div class="container">

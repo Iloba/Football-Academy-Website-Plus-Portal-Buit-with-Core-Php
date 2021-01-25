@@ -82,12 +82,7 @@
         <div class="container">
             <div class="col-md-12">
                 <img class="img-fluid nff2 mx-auto d-block" src="img/nff.png">
-                <p class="text-center nffw">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="text-center nffw">We are Fully Registered under the Nigerian Football Federation</p>
             </div>
         </div>
     </div>
@@ -100,14 +95,9 @@
                 <div class="col-md-10">
                    <h4 style="color: #fff;" class="text-center welcome ">Our Patnerships</h4>
                    <p class="teamdet1">
-                    P & A Football Academy Nigeria formed in November 2006 to discover young soccer talents in Nigeria and the rest of Africa and make them better persons in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and Lagos state Football Association.
+                    P & A Football Academy Nigeria as a Sporting Organization is in Patnership with a number of International Clubs. we also Promote players through Regular Scouting Programmes.
                   </p>
-                  <p class="teamdet1">
-                    P & A Football Academy Nigeria formed in November 2006 to discover young soccer talents in Nigeria and the rest of Africa and make them better persons in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and Lagos state Football Association.
-                  </p>
-                  <p class="teamdet1">
-                    P & A Football Academy Nigeria formed in November 2006 to discover young soccer talents in Nigeria and the rest of Africa and make them better persons in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and Lagos state Football Association.
-                  </p>
+                  
                 </div>
                 <div class="col-md-1">
                     &nbsp;
