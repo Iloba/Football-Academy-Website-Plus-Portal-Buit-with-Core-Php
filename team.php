@@ -15,15 +15,15 @@
 </head>
 <body>
 	   <nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" id="brand" href="index.php">P & A Football Academy</a>
+            <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img  class="navbar-brand" src="img/logo-nav.png"></a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="                    navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a  id="nav_white" class="nav-link"   href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
+            </li> -->
             <li class="nav-item">
                  <a class="nav-link"   href="about.php">About</a>
             </li>
@@ -80,14 +80,14 @@
                 <div class="col-md-8">
                     <h2 class="text-center teama">Our team</h2>
                     <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                       consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                       cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                       proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
-                    </p>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
-                    </p>
+                   
                 </div>
                 <div class="col-md-2">
                     &nbsp;
@@ -96,57 +96,9 @@
         </div>
     </div>
     <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg3.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text"> Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg4.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg5.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg6.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-        </div>
-        <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg7.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text"> Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg8.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg9.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/bg10.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">Our Training Sections</div>
-                    </div>
-             </div>
-        </div>
+             
+       
+     </div>
     <footer data-aos="fade-up" data-aos-duration="2000">
             <div class="container-fluid">
                     <div class="container">

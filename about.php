@@ -15,15 +15,15 @@
 </head>
 <body>
 	   <nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" id="brand" href="index.php">P & A Football Academy</a>
+            <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img  class="navbar-brand" src="img/logo-nav.png"></a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="                    navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+          <!--   <li class="nav-item">
                 <a  id="nav_white" class="nav-link"   href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
+            </li> -->
             <li class="nav-item">
                  <a class="nav-link"   href="about.php">About</a>
             </li>
@@ -58,7 +58,7 @@
                     &nbsp;
                 </div>
                 <div class="col-md-10"><br>
-                    <h3 class="text-center about">About Us <br> P & A Football Academy</h3><br>
+                    <h3 class="text-center about"><br> P & A Football Academy</h3><br>
                     <p class="text-center aboutpa">
                         P & A  is a football and media management outfit based in Kaduna Nigeria.
                         We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
@@ -78,18 +78,17 @@
                     &nbsp;
                 </div>
                 <div class="col-md-5"><br>
-                    <img class="img-fluid mx-auto d-block team" src="img/slider1.jpg">
+                    <img class="img-fluid mx-auto d-block team" src="img/slider-1.jpg">
                 </div>
                 <div class="col-md-5"><br>
                   <p class="teamdet">
-                    P & A Football Academy Nigeria formed in November 2006 to discover young soccer talents in Nigeria and the rest of Africa and make them better persons in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and Lagos state Football Association.
+                    P&A Football Academy is based in Nigeria and was formed in the year 2013 with the Mission to discover young soccer talents in Nigeria and the rest of Africa and make them better person in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and the Kaduna State Football Association.
                   </p>
                   <p class="teamdet">
-                      We believe in the numerous human and natural resources that Nigeria and Africa possess most especially in the football industry and Midas Football Academy was setup to enable us recognize and deploy these talents.
-
+                      We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents.
                   </p>
                   <p class="teamdet">
-                      With our network of international football clubs and football management organisations around the world, we have been helping young players with opportunities to showcase their talents to football coaches, agents and scouts from all over Europe, Asia, North Africa and the Americas.
+                      We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents.
                   </p>
                 </div>
                 <div class="col-md-1">
@@ -98,66 +97,87 @@
             </div>
         </div>
     </div>
-    <div class="aboutThree" data-aos="fade-up" data-aos-duration="2000">
-        <div class="container">
+    <div  class="aboutThree bg-info" data-aos="fade-up" data-aos-duration="2000">
+        <div class="container" style="color: #fff;">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/vision.png"> <br></div>
-                    <h3 class="text-center vhead">The Vision</h3>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
+                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/vision.png"> <br></div> <br>
+                    <h3 class="text-center vhead" style="color: #fff;">The Vision</h3> 
+                    <p style="color: #fff;" class="text-center vtext">
+                       To become the biggest Football Academy in Nigeria, African and all over the world. To produce a world class player for any league and National Team.
                     </p>
                 </div>
                 <div class="col-md-3">
-                     <div class="imgdiv"><img class="mx-auto d-block pngm" src="img/mission.png"> <br></div>
-                   <h3 class="text-center vhead">The Mission</h3>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
+                     <div class="imgdiv"><img class="mx-auto d-block pngm" src="img/mission.png"> <br></div> <br>
+                   <h3 style="color: #fff;" class="text-center vhead">The Mission</h3> 
+                    <p style="color: #fff;" class="text-center vtext">
+                      To give equal opportunity to young players of any category or background that is willing to help himself to be a star.
                     </p>
                 </div>
                 <div class="col-md-3">
-                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/color.png"> <br></div>
-                   <h3 class="text-center vhead">Color and Motto</h3>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
+                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/color.png"> <br></div> <br>
+                   <h3 style="color: #fff;" class="text-center vhead">Color</h3> 
+                    <p style="color: #fff;" class="text-center vtext">
+                      Royal  blue and Sky Blue
                     </p> 
                 </div>
                 <div class="col-md-3">
-                     <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/location.png"> <br></div>
-                   <h3 class="text-center vhead">Geographical Location</h3>
-                    <p class="text-center vtext">
-                        To become the biggest football academy in Nigeria and Africa, to have branches and centers in every part of the world, to become the most successful football academy with the type of players that will be produced for National teams and football world.
+                     <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/location.png"> <br></div> <br>
+                   <h3 style="color: #fff;" class="text-center vhead">Geographical Location & Training Ground</h3>
+                    <p style="color: #fff;" class="text-center vtext">
+                        <b>Geographical Location</b> <br>
+
+                      Northern Nigeria <br>
+                     <b> Training Ground</b>: Open Correctional Centre, Television, Kaduna.
                     </p>
                 </div>
             </div>
         </div>
     </div>
-    <div class="aboutFive" data-aos="fade-up" data-aos-duration="2000">
+    <div class="abtoga">
         <div class="container">
-           <div class="row">
-                <div class="col-md-2">
-               &nbsp; 
+          <h1 class="text-center welcome">Members of our Able Management</h1> <br>
+            <div class="row">
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+                <div class="col-md-6">
+                    <h3>MR PATRICK A. ADEOLU </h3>
+                    <p class="title"><i>CEO P&A Ventures Ltd/P&A Football Academy</i></p>
+                 Was born in the northern part of Nigeria. Play football both Local and International, Played for his great country (Nigeria) at the under 20 level in the year 2001 and under 23 in the year 2003.
+                </div>
+                <div class="col-md-4">
+                 <img class="img-fluid rounded-circle img-thumbnail" src="img/mr-pato.jpg">
+                </div>
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
             </div>
-             <div class="col-md-8">
-                <h3 class="text-center mandate2">Our Mandate</h3>
-                <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    Our aim is to provide the best of facilities, coaching and games programme to create a perfect environment for players to develop and reach their full potentials. We aim to develop players to play in the first team of different clubs in every part of the world as professionals and our admission process is rigorous and on a continuous basis as more talented qualified students are discovered and invited to join the academy.
-                </p>
-                <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    We aim to have a 120 student’s capacity hostel for the junior and senior teams in the nearest future where they will be 3 coaches for both levels. All student and coaches shall reside in the academy accommodation, those that could not complete their high school education and those that are still in high school shall join academic activities of our partner educational schools. They shall seat for WAEC, NECO and GCE and as such shall be part of the evening training. Midas Football Academy students that are part of the academy activities of our partner educational school shall observe breaks in line with the school calendar while the senior students will remain at the academy accommodation and will observe break as determined by the management. Players shall be eliminated due to any form of bad behavior or poor performance.
-                </p>
-                <p class="text-center mtext" data-aos="fade-up" data-aos-duration="2000">
-                    There shall be computer training opportunities for all students of MFA; each student shall have a training kits and camp uniforms. The academy shall have a most functional and modern facilities for training and development of her students. There shall be scholarship opportunities for students with outstanding performance and educational result at top football and educational institutes in Europe and Americas. The academy shall have a well-furnished hostel accommodation with all the house hold facilities.
-                </p>
-                <p class="text-center  mtext" data-aos="fade-up" data-aos-duration="2000">
-                    here shall be a monthly award for the best player of the month an initiative already introduced in the academy since 2012, There shall be a monthly visit by ex-international across Africa to educate and enlighten the players on the effect of social vices and etc.
-                </p>
+        </div>
+    </div>
+    
+    <div class="abtoga">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+                <div class="col-md-6">
+                    <h3>MR SYDNEY MATO</h3>
+                    <p class="title"><i>The coordinator</i></p>
+                 A graduate of the federal polytechnic kaduna (HND in mineral processing engineering, PGD in management science)  with a certificate from the institute of mentorship and coaching, kaduna state. Married to lovely Temitope Mato and blessed with two great kids Hallelujah and Charis Mato.
+                 Had a brief stint with the following clubs, Marafa youths, which metamorphosed to Avante and participated in the national professional league division 3 and Soccer Diplomats fc Barnawa. Captained the polytechnic team for 2years.
+                Founder of Sports consults international a grassroots organization with the sole purpose of talents discovery, development and empowerment through various sporting enterprises.
+                Serving now as the coordinator for P & A Football Academy, Secretary of community peace implementation committee, Zaman Tare, kaduna state, Chairman Community Peace Observers, Barnawa, under the interfaith mediation center kaduna and Head pastor at charis word ministries, kaduna . I welcome you to a journey of fulfilment.
+
+                </div>
+                <div class="col-md-4">
+                 <img class="img-fluid rounded-circle img-thumbnail" src="img/mato.jpg">
+                </div>
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
             </div>
-             
-             <div class="col-md-2">
-               &nbsp; 
-            </div>
-           </div>
         </div>
     </div>
     <div class="abtoga">
@@ -167,51 +187,95 @@
                     &nbsp;
                 </div>
                 <div class="col-md-6">
-                    <h3>Mr Ceo</h3>
-                    <p class="title"><i>Ceo P & A Investments</i></p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    <h3>Coach Auta Philip Anthony  </h3>
+                    <p class="title"><i>Head Coach</i></p>
+                    <b>PLAYING DAYS</b>
+                    <ul style="list-style-type: disc;">
+                        <li style="list-style-type: square;">Ribadu utd fc Kaduna</li>
+                        <li style="list-style-type: square;">Nipost fc kadunä</li>
+                        <li style="list-style-type: square;">N.A.C.B fc Kaduna</li>
+                        <li style="list-style-type: square;">Rancher Bees Kaduna</li>
+                        <li style="list-style-type: square;">Rangers fc Enugu</li>
+                        <li style="list-style-type: square;">Hiltop fc obudu cross riverş</li>
+                        <li style="list-style-type: square;">Ekabonkon ikom cross rivers</li>
+                    </ul> <br>
+                    <b>PROFESSIONAL CERTIFICATE COURSE</b>
+                       <ul>
+                           <li style="list-style-type: square;">National institutes for sports lagos </li>
+                       </ul>
+                       <b>ADVANCE COACH CERTIFICATE </b>
+                       <ul>
+                           <li style="list-style-type: square;">CAF'C Lincense certificate Abuja. </li>
+                       </ul>
+                       <b>COACHING CARRER’S</b>
+                       <ul>
+                           <li style="list-style-type: square;">Soccer stars academy osun </li>
+                           <li style="list-style-type: square;"> Imperial soccer academy Ogun </li>
+                           <li style="list-style-type: square;">Kabu fc kogi </li>
+                           <li style="list-style-type: square;">Ganet fc Kaduna </li>
+                           <li style="list-style-type: square;">P&A Academy Kaduna</li>
+                          
+                       </ul>
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid" src="img/mr-pato.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" src="img/coach-auta.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
                 </div>
             </div>
         </div>
-
+    </div>
+    <div class="abtoga">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+                <div class="col-md-6">
+                    <h3>COACH SAMSON GANA DANLADI </h3>
+                    <p class="title"><i>ASST. HEAD COACH</i></p>
+                    <b>Career’s in football </b> <br>
+                    Grass-root: Played for young Brazil, City Rollers, Potters F.C
+                    <br>
+                    <b>Professional Career’s</b>
+                    <p>
+                        Played in the state FA Cup with teams in Kaduna like Light House  FC, Nansil bounet Jaji, Parionias Academy Before moving to Jos and played for Police Machine in the Third (3) Division Amature and help them to qualify to the Second (2) Division.
+                        Then move out of the country to played in Ghana with Heart of Lion in the Second (2) Division before moving to Togo and played in the second division with Agaza Omini Sport of Lome and help them to qualify to the first division before moving back to Home land (Nigeria) to play in the NNL with Kogi United and then retired to be a coach in P&A  Football Academy Kaduna.
+                    </p>
+                </div>
+                <div class="col-md-4">
+                 <img class="img-fluid rounded-circle img-thumbnail" src="img/asst-coach.jpg">
+                </div>
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="abtoga">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+                <div class="col-md-6">
+                    <h3>EMMANUEL AJIBADE  </h3>
+                    <p class="title"><i>PA to CEO P&A Ventures Ltd/P&A Football Academy</i></p>
+                   is a lover of football and believe in the unity that football can bring, in respect of tribe, religion or country. Believe that talents can makes one to be great in respect of once background, he study Accounting and Auditing.
+                </div>
+                <div class="col-md-4">
+                 <img class="img-fluid rounded-circle img-thumbnail" src="img/emma.jpg">
+                </div>
+                <div class="col-md-1">
+                    &nbsp;
+                </div>
+            </div>
+        </div>
     </div>
     <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-             <div class="click-one">
-                <img class="img-fluid em" src="img/ex.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">Photos from his <br> International Footballing career</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img-fluid em" src="img/ex1.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">Photos from his <br> International Footballing career</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img-fluid em" src="img/ex4.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">Photos from his <br> International Footballing career</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img-fluid em" src="img/ex3.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">Photos from his <br> International Footballing career</div>
-                    </div>
-             </div>
-        </div>
+            
+    </div>
     <div class="aboutFour" data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
             <div class="row">
@@ -227,6 +291,25 @@
                 <div class="col-md-1">
                     &nbsp; 
                 </div>
+            </div>
+        </div>
+    </div>
+    <div style="padding: 50px;" class="bg-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                      <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
+                </div>
+                 <div class="col-md-3">
+                    <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
+                </div>
+                 <div class="col-md-3">
+                    <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
+                </div>
+                <div class="col-md-2">
+                    <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
+                </div>
+                
             </div>
         </div>
     </div>

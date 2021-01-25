@@ -16,15 +16,15 @@
 </head>
 <body>
 	<nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" id="brand" href="index.php">P & A Football Academy</a>
+            <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img  class="navbar-brand" src="img/logo-nav.png"></a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="					navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a  id="nav_white" class="nav-link"   href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
+            </li> -->
             <li class="nav-item">
                  <a class="nav-link"   href="about.php">About</a>
             </li>
@@ -74,7 +74,7 @@
         <div class="card">
           <div class="card-header">
           
-            <h2 class="text-center welcome">Our Pictures</h2>
+            <h2 class="text-center welcome"></h2>
           </div>
           <div class="card-body">
             <div class="row">
@@ -109,10 +109,19 @@
                   while ($images = mysqli_fetch_assoc($run_query)) :
                     ?>
                     <div class="col-md-3"><br>
-                      
-                        <img class="img img-fluid" src="pics/<?php echo $images['image']; ?>" alt="Services"><br>
+                      <div class="card"> 
+                          <div class="card-body"> 
+                                   <div style="height: 250px; background: transparent no-repeat  top center; background-size:cover; background-image: url('pics/<?php  echo $images['image'];   ?>')">
+                                 &nbsp;
+                            </div>
+                              <div class="card-footer"> 
+                                       <div class="text-center picdet"><b><?php echo $images['text'] ?></b></div>
+                              </div>
+                          </div>
+                      </div>
+                      <!--   <img class="img img-fluid img-thumbnail" src="pics/<?php echo $images['image']; ?>" alt="Services"><br> -->
                         
-                           <div class="text-center picdet"><b><?php echo $images['text'] ?></b></div>
+                          
                       
                     </div>
                     

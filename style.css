@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet');
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
 *{
   padding: 0px;
   margin: 0;
@@ -14,7 +13,7 @@ body{
   margin-right: 0px;
   padding: 0;
   background-color: #E2E2E2;
-  font-family: Roboto, ;
+  font-family: Nunito San, sans-serif;
   
 }
 .left{
@@ -50,40 +49,38 @@ footer{
 }
 .slider_header{
 	font-size: 40px;
-	font-family: 'Bree Serif', serif;
+	font-family: 'Nunito Sans', sans-serif;
 	text-transform: uppercase;
   color:  #fff;
   font-weight: bolder;
-   text-shadow: 2px 2px 2px #000;
 }
 .slider_text{
 	font-size: 19px;
-	font-family: 'Bree Serif', serif;
+	font-family: 'Nunito Sans', sans-serif;
   color:  #fff;
- font-weight: bold;
  text-transform: uppercase;
- text-shadow: 2px 2px 2px  #000;
+
 
 }
 #brand{
-	font-size: 18px;
+	/*font-size: 18px;
 	font-family: 'Bree Serif', serif;
   font-weight: bold;
   text-shadow: 1px 1px 0px #000;
-  text-transform: uppercase;
+  text-transform: uppercase;*/
 }
 .sectionOne{
-	background-color: rgb(242, 242, 242);
+	background-color: rgb(242, 248, 242);
 	padding: 20px;
 }
 .writeup{
 	font-size: 17px;
-	font-family:'Alegreya Sans', sans-serif;
-  color: grey;
-  text-shadow: 1px 1px 1px #fff;
+	font-family:'Nunito Sans', sans-serif;
+  color: black;
+
 }
 .btn-lg{
-	font-family: 'Alegreya Sans', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 
 }
 .sectionTwo{
@@ -98,14 +95,14 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 #h1{
 	color: #fff;
   font-size: 40px;
-  font-family: 'Alegreya Sans', sans-serif;
-  text-shadow: 2px 2px 2px #000;
+  font-family: 'Nunito Sans', sans-serif;
+ 
+
 }
 .text2{
 	line-height: 2em;
 	font-size: 20px;
-	font-family: 'Alegreya Sans', sans-serif;
-	font-style: italic;
+	font-family: 'Nunito Sans', sans-serif;
 }
 .sectionThree{
 	display: flex;
@@ -167,9 +164,8 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 .nav-link{
   text-transform: uppercase;
   color: #fff;
-  font-family: Calibri light;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 14px;
-  font-weight: bold;
 }
 .nav-item{
   color: #fff;
@@ -183,7 +179,7 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
   background-position: center;
 }
 .bg-dark.dark{
-  background-color:  #2f333e;
+  background-color:  red;
 }
 .btn-yellow{
   color: #fff;
@@ -203,19 +199,19 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 }
 .carousel-caption{
 position: relative;
-top: 60%;
+top: 50%;
 
 }
 .coach{
   font-size: 20px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   text-align: left;
 }
 .coach_img:hover{
   opacity: 0.5;
 }
 .about_coach{
-  font-family: Alegreya Sans;
+  font-family: Nunito Sans;
   font-size: 18px;
   text-align: left;
 }
@@ -231,36 +227,35 @@ top: 60%;
 }
 .reg{
   color: #2f333e;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
-  font-style: italic;
 }
 .title{
   font-style: italic;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #006600;
 }
 .aboutHead{
   padding: 60px;
-  background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.8)), url(./img/slider1.jpg) 50% 0 #2ac194;
-  background-position:  center center;
+  background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.8)), url(./img/gal22.jpg) 50% 0 #2ac194;
+  background-position:  top center;
 }
 .about{
   font-size: 40px;
   color: #fff;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .aboutpa{
   font-size: 20px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #fff;
 }
 .team{
   width: 120%;
 }
 .teamdet{
-  font-size: 14px;
-  font-family: Alegreya Sans;
+  font-size: 16px;
+  font-family: Nunito Sans;
 }
 .aboutTwo{
   padding: 60px;
@@ -272,13 +267,13 @@ top: 60%;
 .abpa{
   color: #2f333e;
   font-size: 40px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: bold;
 }
 .vhead{
   color: #2f333e;
   font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .vtext{
   color: #000;
@@ -287,8 +282,8 @@ top: 60%;
 }
 .mtext{
   color: #fff;
-  font-family: Alegreya Sans;
-  font-size: 1.2vw;
+  font-family: Nunito Sans;
+  font-size: 16px;
 }
 .imgdiv{
   background-color: #fff;
@@ -316,17 +311,18 @@ top: 60%;
 .join{
   color: #2f333e;
   font-size: 18px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .mandate{
   font-size: 35px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #2f333e;
-  text-shadow: 1px 1px 1px #000;
+ 
+
 }
 .mandate2{
   font-size: 40px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #fff;
 }
 .aboutFive{
@@ -338,25 +334,29 @@ top: 60%;
 }
 .inv1{
   padding: 60px;
-  background: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.8)), url(./img/tg1.jpg) 50% 0 #2ac194;
+  background: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.6)), url(./img/investment-bg.jpg) 50% 0 #2ac194;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
 }
 .sectionSix{
   padding: 60px;
-   background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url(./img/bg3.jpg) 50% 0 #2ac194;
+   background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url(./img/two.jpg) 50% 0 #2ac194;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  background-attachment: fixed;
 }
 .slide{
   width: 100%;
 }
 .teamHead{
   padding: 60px;
-  background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.8)), url(./img/slider3.jpg) 50% 0 #2ac194;
-  background-position: center;
+  background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.8)), url(./img/slider-1.jpg) 50% 0 #2ac194;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .teamTwo{
   padding: 30px;
@@ -405,12 +405,12 @@ top: 60%;
 }
 .price{
   color: #2f333e;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
 }
 .mar{
     color: orange;
-  font-family:'Alegreya Sans', sans-serif;
+  font-family:'Nunito Sans', sans-serif;
   font-size: 18px;
 }
 .contact_form{
@@ -423,7 +423,7 @@ padding: 20px;
 .contact{
   font-size: 40px;
   color: #2f333e;
-  font-family: 'Alegreya Sans', sans-Serif;
+  font-family: 'Nunito Sans', sans-Serif;
 }
 .contactTwo{
   padding: 20px;
@@ -431,13 +431,14 @@ padding: 20px;
 }
 .addr{
   color: #fff;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 16px;
  
 }
 .color{
-  color: orange;
+  color: #fff;
   font-size: 19px;
+  font-weight: bold;
 }
 .patnershipOne{
   padding: 20px;
@@ -456,8 +457,8 @@ padding: 20px;
 .teamdet1{
   color: #fff;
   text-align: center;
-  font-size: 1.5vw;
-  font-family: Alegreya Sans;
+  font-size: 16px;
+  font-family: Nunito Sans;
 }
 .PatnerHead{
   padding: 20px;
@@ -476,7 +477,7 @@ padding: 20px;
 }
 .nffw{
   font-size: 18px;
-  font-family: "Alegreya Sans", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
 }
 .teama{
   font-size: 40px;
@@ -489,7 +490,7 @@ padding: 20px;
 .logosection{
   padding: 70px;
   color: #fff;
-  background: linear-gradient(rgba(0,200,100,.3),rgba(0,100,0,.3)), url(./img/slider6.jpg) 50% 0 #2ac194;
+  background: #fff;
   background-color: #fff;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -499,11 +500,11 @@ padding: 20px;
   width: 25%;
 }
 .welcome{
-  color: #2f333e;
-  font-family: 'Alegreya Sans', sans-serif;
+  color: #17a2b8;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 33px;
-  text-shadow: 1px 1px 1px #fff;
-  text-transform: uppercase;
+  font-weight: bolder;
+  text-transform: capitalize;
 }
 .emptydiv{
   padding: 12px;
@@ -517,7 +518,7 @@ padding: 20px;
   font-size: 30px;
 }
 .place{
-  background-color: #2f333e;
+  background-color: #17a2b8;
   padding: 30px;
   border-radius: 5px;
 }
@@ -529,13 +530,12 @@ padding: 20px;
 }
 .htext{
   font-size: 17px;
-  font-family: 'Alegreya Sans', sans-serif;
-  font-style: italic;
-  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: left;
   color: #000;
 }
 .btext{
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   text-transform: uppercase;
 
 }
@@ -546,7 +546,7 @@ padding: 20px;
 }
 .gallerywelcome{
   padding: 60px;
-  background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.2)), url(./img/hu.png) 50% 0 #2ac194;
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.2)), url(./img/slider-4.jpg) 50% 0 #2ac194;
    background-attachment: fixed;
    background-size: cover;
    background-position: center center;
@@ -570,17 +570,15 @@ padding: 20px;
   word-wrap: break-word;
   background-color: #ffffff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
-  border-top: 3px solid #2f333e;
-  border-bottom: 3px solid #2f333e;
+  border: 1px solid #17a2b8;
+  border-radius: 0rem;
  -webkit-box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 -moz-box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 }
 .video{
   padding: 60px;
-   background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(./img/slider1.jpg) 50% 0 #2ac194;
+   background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(./img/gal11.jpg) 50% 0 #2ac194;
     background-attachment: fixed;
    background-size: cover;
    background-position: center;
@@ -600,26 +598,27 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 }
 .inv{
   padding: 30px;
-   background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(./img/tg2.jpg) 50% 0 #2ac194;
+   background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(./img/investment-bg.jpg) 50% 0 #2ac194;
    background-attachment: fixed;
    background-size: cover;
    background-position: center;
   
 }
 .invhead{
-  color: #000;
+  color: #17a2b8;
   font-size: 30px;
-  font-family: 'Alegreya Sans', sans-serif;
-  text-shadow: 1px 1px 1px grey;
+  font-family: 'Nunito Sans', sans-serif;
+  
+
 }
 .invheader{
     color: #fff;
   font-size: 40px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   text-transform: uppercase;
 }
 .ivtext{
-  font-family: Alegreya Sans;
+  font-family: Nunito Sans;
   color: #000;
 }
 .cards {
@@ -671,7 +670,7 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 
 }
 .lh1{
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 30px;
 
 }
@@ -681,39 +680,38 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 }
 .ct{
   color: #2f333e;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 19px;
 }
 .cn{
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 22px;
   color: red;
   font-weight: bold;
 }
 .ctt{
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 14px;
 }
 .white{
   color: #fff;
   text-transform: uppercase;
   font-size: 40px;
-  text-shadow: 1px 1px 1px #000;
+  
+
 }
 .tt{
-  color: #2f333e;
+  color: #17a2b8;
   font-size: 22px;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-weight: bolder;
-  text-shadow: 1px 1px 1px #000;
 }
 .sectiondiv{
-  padding: 40px;
+  padding: 60px;
 }
 .ttt{
   font-size: 17px;
-  font-family: 'Alegreya Sans', sans-serif;
-  font-style: italic;
+  font-family: 'Nunito Sans', sans-serif;
   text-align: center;
 }
 .logop{
@@ -723,11 +721,11 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
     width: 340px;
 }
 .picdet{
-  font-family: 'Alegreya Sans', sans-serif
+  font-family: 'Nunito Sans', sans-serif
   font-size:16px;
 }
 .p_name{
-  font-family: 'Alegreya Sans', sans-serif
+  font-family: 'Nunito Sans', sans-serif
   font-size:13px;
   color: #000;
 }
@@ -760,9 +758,90 @@ label{
   border: 2px solid  #2f333e;
 }
 .carousel-item img{
-  filter: brightness(60%);
+  filter: brightness(100%);
 }
 .max-height{
   height: 300px;
 }
+@media screen and (max-width: 600px){
+  .carousel-caption{
+  position: relative;
+  top: 45%;
+}
 
+  .carousel-caption h3{
+    
+    font-size: 15px;
+}
+
+  .carousel-caption p{
+    
+    font-size: 12px;
+}
+
+  .carousel-caption img{
+    
+    width: 10%;
+}
+
+}
+
+.logo-big{
+  width: 60%;
+}
+.form-control{
+  border: none;
+  outline: none;
+}
+.production{
+  padding: 60px;
+  text-align: center;
+  background: linear-gradient(rgba(0,0,250,0.3),rgba(0,0,180,.2)), url(./img/coaches.jpg) 50% 0 #2ac194;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Nunito Sans', sans-serif;
+
+}
+.card-footer{
+  font-family: 'Nunito Sans', sans-serif;
+}
+@media screen and (max-width: 600px){
+  .logo-big{
+    display: block;
+   margin: auto;
+
+  }
+  .writeup{
+    text-align: center;
+  }
+  .footer_link{
+    display: block;
+    text-align: center;
+  }
+
+  footer h5{
+     display: block;
+    text-align: center;
+  }
+  .training-ground{
+    display: block;
+    text-align: center;
+  }
+  .htext{
+    display: block;
+    text-align: center;
+  }
+  .welcome{
+     margin-left: 65px;
+    text-align: center;
+  }
+  .more-abt{
+   display: block;
+   margin-left: 65px;
+   margin-bottom: 12px;
+}
+.immg{
+  width: 100%;
+}
+}

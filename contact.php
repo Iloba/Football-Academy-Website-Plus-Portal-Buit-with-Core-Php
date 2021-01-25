@@ -18,15 +18,15 @@
 </head>
 <body>
     <nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" id="brand" href="index.php">P & A Football Academy</a>
+            <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img  class="navbar-brand" src="img/logo-nav.png"></a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="                    navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+          <!--   <li class="nav-item">
                 <a  id="nav_white" class="nav-link"   href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
+            </li> -->
             <li class="nav-item">
                  <a class="nav-link"   href="about.php">About</a>
             </li>
@@ -114,14 +114,14 @@
             </div>
         </div>
     </div>
-    <div class="contactTwo">
+   <div style="padding: 50px;" class="bg-info">
         <div class="container">
             <div class="row">
-                <div class="col-md-2">
-                    &nbsp;
+                <div class="col-md-3">
+                      <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
                 </div>
                  <div class="col-md-3">
-                    <p class="addr"><span class="color">Visit Us today @</span> <br> No 3 Malali Road Malali Kaduna</p>
+                    <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
                 </div>
                  <div class="col-md-3">
                     <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
@@ -129,9 +129,7 @@
                 <div class="col-md-2">
                     <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
                 </div>
-                 <div class="col-md-2">
-                    &nbsp;
-                </div>
+                
             </div>
         </div>
     </div>

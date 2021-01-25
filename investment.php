@@ -15,15 +15,15 @@
 </head>
 <body>
     <nav class=" height sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" id="brand" href="index.php">P & A Football Academy</a>
+            <a style="margin-left: 60px;" class="navbar-brand" id="brand" href="index.php"><img  class="navbar-brand" src="img/logo-nav.png"></a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="                    navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+          <!--   <li class="nav-item">
                 <a  id="nav_white" class="nav-link"   href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
+            </li> -->
             <li class="nav-item">
                  <a class="nav-link"   href="about.php">About</a>
             </li>
@@ -83,84 +83,15 @@
     <h1 class="welcome text-center">Our Recent Jobs</h1>
      <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
 
-             <div class="click-one">
-                <img class="img img-fluid" src="img/tg1.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">We Supply Sport <br> Wares to School</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/tg2.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">We Supply Sport <br> Wares to School</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/tg3.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">We Supply Sport <br> Wares to School</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/tg4.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text">We Supply Sport <br> Wares to School</div>
-                    </div>
-             </div>
-        </div>
-        <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-             <div class="click-one">
-                <img class="img img-fluid" src="img/gg1.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We Offer Graphics Design <br> Services</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/gg2.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We Offer Graphics Design <br> Services</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/gg3.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We Offer Graphics Design <br> Services</div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/ggg4.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We Offer Graphics Design <br> Services</div>
-                    </div>
-             </div>
-        </div>
-         <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
+            
+            
+    </div>
+    <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
+         
+    </div>
+     <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
 
-             <div class="click-one">
-                <img class="img img-fluid" src="img/pg1.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We design brochures <br> and Magazines </div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/pgg2.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We design brochures <br> and Magazines </div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/pg3.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We design brochures <br> and Magazines </div>
-                    </div>
-             </div>
-             <div class="click-one">
-                <img class="img img-fluid" src="img/pg4.jpg" alt="Services">
-                    <div class="overlay">
-                       <div class="text text-center">We design brochures <br> and Magazines </div>
-                    </div>
-             </div>
-        </div>
+    </div>
     <footer data-aos="fade-up" data-aos-duration="2000">
 		<div class="container-fluid">
 				<div class="container">

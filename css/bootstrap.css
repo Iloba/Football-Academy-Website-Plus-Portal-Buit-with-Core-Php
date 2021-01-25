@@ -4512,8 +4512,9 @@ box-shadow: -2px 3px 5px 0px rgba(0,0,0,0.75);
 
 .card-footer {
   padding: 0.75rem 1.25rem;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: #17a2b8;
   border-top: 1px solid rgba(0, 0, 0, 0.125);
+  color: #fff;
 }
 
 .card-footer:last-child {
@@ -6155,9 +6156,9 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color:#2f333e;
+  background-color: #17a2b8;
   color: #fff;
-  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
