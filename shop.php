@@ -150,24 +150,22 @@
             </div>
         </div>       
     </div>
-    <div class="contactTwo">
+    <div style="padding: 50px;" class="bg-info">
         <div class="container">
             <div class="row">
-                <div class="col-md-2">
-                    &nbsp;
+                <div class="col-md-3 training-ground">
+                      <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
                 </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Visit Us today @</span> <br> No 3 Malali Road Malali Kaduna</p>
+                 <div class="col-md-3 training-ground">
+                    <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
                 </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
+                 <div class="col-md-3 training-ground">
+                    <p class="addr"><span class="color">Call us On </span><br> +234(0) 816 707 9019 <br>+234(0)943356733 <br> +234(0)943356733</p>
                 </div>
-                <div class="col-md-2">
-                    <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
+                <div class="col-md-2 training-ground">
+                    <p class="addr"><span class="color">Send Us a Mail</span> <br> pandaacademy@gmail.com <br> paventures01@gmail.com</p>
                 </div>
-                 <div class="col-md-2">
-                    &nbsp;
-                </div>
+                
             </div>
         </div>
     </div>

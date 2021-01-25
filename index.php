@@ -283,8 +283,7 @@
                 <div class="container"> <br>
                     <div class="row">
                         <div class="col-md-4">
-                            <i class="fa fa-briefcase"></i>
-                        <h2 class="counter" style="  line-height: 50px; font-kerning: normal;">Produced Over <br> <span class="counter">1500</span> <br> </h2>  <h5> Players</h5>
+                        <h2 class="counter"  style="  line-height: 50px;" >Produced over <br> <span class="counter">200</span> <br> </h2> <h5>International Players</h5>
                     </div>
                      <div class="col-md-4">
                         <h2 class="counter"  style="  line-height: 50px;" >Produced over <br> <span class="counter">200</span> <br> </h2> <h5>International Players</h5>
@@ -810,9 +809,6 @@
           button: "Ok!",
     });
 </script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
- <!--Counter--->
-<script src="js/jquery.counterup.min.js"></script> 
  <!---Change Nav on Scroll--->
     <script type="text/javascript">
      $(window).scroll(function(){
@@ -821,14 +817,6 @@
      });
     </script>
    
-       <script>
-        $(document).ready(function($){
-            $('.counter').counterUp({
-                delay: 10,
-                time: 1000
-            });
-        });
-        
-       </script>
+       
 </body>
 </html>
