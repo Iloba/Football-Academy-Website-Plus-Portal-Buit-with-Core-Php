@@ -1,4 +1,11 @@
-<?php  ?>
+<?php
+
+ include 'server.php'; 
+ if (empty($_SESSION['uname'])) {
+      header('location: login.php');
+  }
+
+ ?>
 <!DOCTYPE html>
 <html>
 <head>

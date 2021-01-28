@@ -1,14 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.0.1
+-- version 5.0.3
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 09, 2020 at 02:39 PM
--- Server version: 10.3.15-MariaDB
--- PHP Version: 7.3.6
+-- Generation Time: Jan 28, 2021 at 04:29 PM
+-- Server version: 10.4.14-MariaDB
+-- PHP Version: 7.4.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -39,10 +38,9 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `uname`, `upass`) VALUES
-(6, 'p&aacademy', 'p12345678'),
-(7, 'Emmanuel', '12345678'),
-(8, 'Mosessimon', '12345678'),
-(9, 'p&aacademy', 'holyspirit2003');
+(10, 'pandafootballacademy@gmail.com', 'holyspirit2003'),
+(11, 'scarlettsney@gmail.com', 'holyspirit2003'),
+(12, 'paventures01@gmail.com', 'paventures');
 
 -- --------------------------------------------------------
 
@@ -63,7 +61,9 @@ CREATE TABLE `contact` (
 
 INSERT INTO `contact` (`id`, `name`, `email`, `msg`) VALUES
 (21, 'Emeka Iloba', '08054421788', 'Emeka Iloba'),
-(22, 'Emeka Iloba', 'scarlettsney@gmail.com', 'Message');
+(22, 'Emeka Iloba', 'scarlettsney@gmail.com', 'Message'),
+(24, 'Emeka Iloba', 'scarlettsney@gmail.com', 'I want a Player'),
+(25, 'Emeka Iloba', 'scarlettsney@gmail.com', 'Good');
 
 -- --------------------------------------------------------
 
@@ -83,10 +83,18 @@ CREATE TABLE `img` (
 --
 
 INSERT INTO `img` (`id`, `image`, `text`, `date`) VALUES
-(20, 'p3.jpg', 'Our training section', '06/08/2019'),
-(21, 'p2.jpg', 'Our training section', '06/17/2019'),
-(22, 'p4.jpg', 'Our training section', '06/17/2019'),
-(23, 'p1.jpg', 'Our training section', '06/17/2019');
+(27, 'gal7.jpg', 'Players During Gym Section', '24/01/2021'),
+(28, 'gal6.jpg', 'The President Presenting a Trophy to a Player', '24/01/2021'),
+(29, 'patner1.jpg', 'The President with One of Our International Patners', '24/01/2021'),
+(30, 'patner3.jpg', 'One of our Patners with The Legendry Kano Nwanko', '24/01/2021'),
+(31, '_DSC0065.JPG', 'The President During one of Our Matches', '24/01/2021'),
+(32, '_DSC0034.JPG', 'During One of Our Matches', '24/01/2021'),
+(33, '_DSC0007.JPG', 'Players During Our Warm Up Section', '24/01/2021'),
+(34, 'slider-2.JPG', 'During One of Our Matches', '24/01/2021'),
+(35, 'IMG-20210124-WA0026.jpg', 'One of the Best Goal Keepers in the Nigerian Premier League Side', '22/01/2021'),
+(36, 'npfl.jpg', 'One of Our Players now in a Nigerian Premier League Side', '21/01/2021'),
+(37, 'abj1.jpg', 'Players During Tournament in Abuja', '21/01/2021'),
+(38, 'abj2.jpg', 'Tournament in Abuja', '21/01/2021');
 
 -- --------------------------------------------------------
 
@@ -151,16 +159,6 @@ CREATE TABLE `transfer` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data for table `transfer`
---
-
-INSERT INTO `transfer` (`id`, `tpimg`, `tpname`, `tpage`, `tphgt`, `tppos`, `tpbfoot`) VALUES
-(9, 'players.jpg', 'Chisom Ugochukwu', '18', '1.79', 'Defender', 'Left'),
-(10, 'players.jpg', 'Rex Muhammed', '15', '1.79', 'Defender', 'Both'),
-(11, 'players.jpg', 'Chisom Ugochukwu', '17', '1.79', 'Defender', 'Right'),
-(12, 'players.jpg', 'Rex Muhammed', '15', '1.79', 'Defender', 'Right');
-
---
 -- Indexes for dumped tables
 --
 
@@ -208,19 +206,19 @@ ALTER TABLE `transfer`
 -- AUTO_INCREMENT for table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=24;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
 
 --
 -- AUTO_INCREMENT for table `img`
 --
 ALTER TABLE `img`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=24;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=39;
 
 --
 -- AUTO_INCREMENT for table `patners`
@@ -232,13 +230,13 @@ ALTER TABLE `patners`
 -- AUTO_INCREMENT for table `players`
 --
 ALTER TABLE `players`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `transfer`
 --
 ALTER TABLE `transfer`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

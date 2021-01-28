@@ -58,11 +58,9 @@
                     &nbsp;
                 </div>
                 <div class="col-md-10"><br>
-                    <h3 class="text-center about">Our Team <br> P & A Football Academy</h3><br>
+                    <h3 class="text-center about">Our  Team <br></h3><br>
                     <p class="text-center aboutpa">
-                        P & A  is a football and media management outfit based in Kaduna Nigeria.
-                        We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
-                        We Recruit and Market Players of Different Categories of U17, U20 and Above
+                        we Possess Markettable and Good football Players of Different Categories
                     </p><br>
                 </div><br>
                 <div class="col-md-1">
@@ -80,12 +78,7 @@
                 <div class="col-md-8">
                     <h2 class="text-center teama">Our team</h2>
                     <p class="text-center vtext">
-                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                       consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                       cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                       proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                       P & A Football Academy consists of Different Categories of  Good and Marketable Players, from the Under 15- 17 and also Under 20-23. 
                     </p>
                    
                 </div>
@@ -94,11 +87,46 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> <br>
     <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-             
+         <div class="col-md-4">
+             <div class="card">
+                 <div class="card-header">
+                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u15.jpg')">
+                                 &nbsp;
+                    </div>
+                    <div class="card-footer">
+                        Our Under 15 Team
+                    </div>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-4">
+             <div class="card">
+                 <div class="card-header">
+                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u17.jpg')">
+                                 &nbsp;
+                    </div>
+                    <div class="card-footer">
+                        Our Under 17 Team
+                    </div>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-4">
+             <div class="card">
+                 <div class="card-header">
+                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gal2.jpg')">
+                                 &nbsp;
+                    </div>
+                    <div class="card-footer">
+                        Our Senior Team
+                    </div>
+                 </div>
+             </div>
+         </div>
        
-     </div>
+     </div> <br> <br>
     <footer data-aos="fade-up" data-aos-duration="2000">
             <div class="container-fluid">
                     <div class="container">
@@ -164,12 +192,13 @@
                 <div class="row">
                     <div class="col-md-5">
                         
-                        <div class="flex">
+                       <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
                         </div>
                             
                     </div>
@@ -204,12 +233,12 @@
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59b6c4433bc6590014ffc442&product=inline-share-buttons"></script> 
     <!---Change Nav on Scroll--->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
      $(window).scroll(function(){
-        $('nav').toggleClass('scrolled', $(this).scrollTop() > 100);
+        $('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
-    </script>
+    </script> -->
     
 </body>
 </html>

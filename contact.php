@@ -98,13 +98,13 @@
                     &nbsp;
                 </div>
                 <div class="col-md-8">
-                    <form method="POST" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>"><br>
+                    <form method="POST" action="https://submit-form.com/HbowIQoM"><br>
                         <label>Your Full Name</label>
-                        <input type="text" name="cname" class="form-control" placeholder="Enter Your Full Name " required><br>
+                        <input type="text" name="name" class="form-control" placeholder="Enter Your Full Name " required><br>
                           <label>Email Address</label>
-                        <input type="text" name="cemail" class="form-control" placeholder="Enter Your Email Address or Phone Number" required><br>
+                        <input type="text" name="email" class="form-control" placeholder="Enter Your Email Address or Phone Number" required><br>
                         <label>Message</label>
-                        <textarea class="form-control" rows="9" name="cmsg" placeholder="Enter Message" required></textarea><br>
+                        <textarea class="form-control" rows="9" name="msg_from_website" placeholder="Enter Message" required></textarea><br>
                         <button class="btn btn-success btn-block" name="submit" type="submit">Contact Us</button>
                     </form><br>
                 </div>
@@ -114,23 +114,23 @@
             </div>
         </div>
     </div>
-   <div style="padding: 50px;" class="bg-info">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3">
-                      <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
+    <div style="padding: 50px;" class="bg-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 training-ground">
+                          <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
+                    </div>
+                     <div class="col-md-3 training-ground">
+                        <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
+                    </div>
+                     <div class="col-md-3 training-ground">
+                      <p class="addr"><span class="color">Call us On </span><br> +234(0) 816 707 9019 <br> +234(0) 818 926 1019 </p>
+                    </div>
+                    <div class="col-md-2 training-ground">
+                        <p class="addr"><span class="color">Send Us a Mail</span> <br> pandaacademy@gmail.com <br> paventures01@gmail.com</p>
+                    </div>
+                    
                 </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
-                </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
-                </div>
-                <div class="col-md-2">
-                    <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
-                </div>
-                
-            </div>
         </div>
     </div>
     <footer data-aos="fade-up" data-aos-duration="2000">
@@ -198,12 +198,13 @@
                 <div class="row">
                     <div class="col-md-5">
                         
-                        <div class="flex">
+                       <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
                         </div>
                             
                     </div>
@@ -238,7 +239,7 @@
     <!---Change Nav on Scroll--->
     <script type="text/javascript">
      $(window).scroll(function(){
-        $('nav').toggleClass('scrolled', $(this).scrollTop() > 100);
+        $('nav').toggleClass('scrolled', $(this).scrollTop() > 0);
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
     </script>

@@ -5,7 +5,6 @@
       header('location: login.php');
   }
 
-
  ?>
 <!DOCTYPE html>
 <html>
@@ -83,6 +82,7 @@
                             <input type="password" name="rpass" class="form-control" placeholder="Enter Password"><br>
                             <input type="submit" name="rsubmit" class="btn btn-success btn-block">
                             <a class="text-center" href="login.php">Login</a>
+                            <a class="text-center" href="apa.php">Back to Admin Page</a>
                         </form>
                     </div>
                 </div>
@@ -159,12 +159,13 @@
 				<div class="col-md-5">
 					
 					<div class="flex">
-						<a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-						<a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-						<a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-						<a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-						<a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
-					</div>
+                            <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
+                        </div>
 						
 				</div>
 				

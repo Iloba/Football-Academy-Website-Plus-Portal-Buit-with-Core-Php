@@ -147,7 +147,7 @@
                     <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
                 </div>
                  <div class="col-md-3">
-                    <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
+                   <p class="addr"><span class="color">Call us On </span><br> +234(0) 816 707 9019 <br> +234(0) 818 926 1019 </p>
                 </div>
                 <div class="col-md-2">
                     <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
@@ -220,13 +220,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5">
-                        
                         <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
                         </div>
                             
                     </div>
@@ -259,11 +259,11 @@
   </script>
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59b6c4433bc6590014ffc442&product=inline-share-buttons"></script> 
     <!---Change Nav on Scroll--->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
      $(window).scroll(function(){
         $('nav').toggleClass('scrolled', $(this).scrollTop() > 100);
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
-    </script>
+    </script> -->
 </body>
 </html>

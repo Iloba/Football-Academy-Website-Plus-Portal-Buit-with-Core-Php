@@ -93,6 +93,8 @@
                                 </li>
                                 <li><a href="pics.php" target=""><i class="menu-icon icon-bullhorn"></i>Upload Picture to Gallery </a>
                                 </li>
+                                 <li><a href="register.php" target=""><i class="menu-icon icon-bullhorn"></i>Register a New Admin User </a>
+                                </li>
                                 <li><a href="apa.php?logout='1'" target=""><i class="menu-icon icon-bullhorn"></i>Logout </a>
                                 </li>
                             </ul>

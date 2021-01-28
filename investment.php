@@ -78,36 +78,36 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j4.jpg')">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/pd.jpg')">
                                  &nbsp;
                             </div>
                         <div class="card-body">
                             <div class="card-footer">
-                                <p> Sample of Training Kitst</p>
+                                <p> P & A Printing and Fabrication Industry's Department</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j2.jpg')">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/sports1.jpg')">
                                  &nbsp;
                             </div>
                         <div class="card-body">
                             <div class="card-footer">
-                                <p> Sample of Training Kits</p>
+                                <p> P & A Printing and Fabrics Industry Production</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/j3.jpg')">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/sports2.jpg')">
                                  &nbsp;
                             </div>
                         <div class="card-body">
                             <div class="card-footer">
-                                <p> Sample of Training Kits</p>
+                                <p> P & A Printing and Fabrics Insudtry Production</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gg4.jpg')">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/sports3.jpg')">
                                  &nbsp;
                             </div>
                         <div class="card-body">
@@ -145,7 +145,45 @@
                             </div>
                         <div class="card-body">
                             <div class="card-footer">
-                                <p> Sample of School Socks</p>
+                                <p> A P & A Fabrics Industry Production</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <br>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gg1.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> P & A Printing Press Production</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gg2.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> P & A Printing Press Production</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gg3.jpg')">
+                                 &nbsp;
+                            </div>
+                        <div class="card-body">
+                            <div class="card-footer">
+                                <p> P & A Printing Press Production</p>
                             </div>
                         </div>
                     </div>
@@ -222,12 +260,13 @@
 			<div class="row">
 				<div class="col-md-5">
 					
-					<div class="flex">
+				<div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
                         </div>
 						
 				</div>
@@ -260,11 +299,11 @@
   </script>
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59b6c4433bc6590014ffc442&product=inline-share-buttons"></script> 
     <!---Change Nav on Scroll--->
-    <script type="text/javascript">
+   <!--  <script type="text/javascript">
      $(window).scroll(function(){
         $('nav').toggleClass('scrolled', $(this).scrollTop() > 100);
         $('nav').toggleClass('dark', $(this).scrollTop() > 700);
      });
-    </script>
+    </script> -->
 </body>
 </html>

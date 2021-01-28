@@ -5,6 +5,7 @@
   margin: 0;
   box-sizing: border-box; 
   list-style: none;
+   font-family: 'Nunito Sans', sans-serif;
 }
 body{
   margin-top: 0px; 
@@ -23,7 +24,7 @@ body{
 footer{
 	background-image: url('./img/footerbg.jpg');
 	color: #fff;
-	font-family: Roboto, '';
+	font-family: 'Nunito Sans', sans-serif;
   background-size: cover;
 }
 .footer_link{
@@ -145,7 +146,7 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 
 .text {
   white-space: nowrap;
-  font-family: Quicksand;
+   font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
   color: black;
   font-weight: bold;
@@ -211,7 +212,7 @@ top: 50%;
   opacity: 0.5;
 }
 .about_coach{
-  font-family: Nunito Sans;
+   font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
   text-align: left;
 }
@@ -447,7 +448,7 @@ padding: 20px;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    filter: brightness(90%);
+    filter: brightness(95%);
 }
 .pat{
   color: #fff;
@@ -465,7 +466,7 @@ padding: 20px;
     background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.2)), url(./img/pat.jpg) 50% 0 #2ac194;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top center;
     background-size: cover;
 }
 .patnerwhite{
@@ -526,7 +527,7 @@ padding: 20px;
   background-color: #fff;
   padding: 20px;
   font-size: 19px;
-  font-family: Quicksand;
+ font-family: 'Nunito Sans', sans-serif;
 }
 .htext{
   font-size: 17px;
@@ -553,7 +554,7 @@ padding: 20px;
 }
 .gwel{
   text-transform: uppercase;
-  font-family: QuickSand;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 30px;
   color: #fff;
 }
@@ -633,7 +634,7 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
   min-width: 0;
   word-wrap: break-word;
   background-color: #fff;
-  background-clip: border-box;
+  b-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
   -webkit-box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
@@ -656,10 +657,11 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
 }
 .abtoga{
   padding: 60px;
+  font-family: 'Nunito Sans', sans-serif;
 }
 .loginsection{
   padding: 60px;
-   background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.2)), url(./img/slider1.jpg) 50% 0 #2ac194;
+   background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.2)), url(./img/gg4.jpg) 50% 0 #2ac194;
    background-position: center;
    background-size: cover;
      background-attachment: fixed;
@@ -806,6 +808,7 @@ label{
 .card-footer{
   font-family: 'Nunito Sans', sans-serif;
   text-align: center;
+  font-weight: lighter;
 }
 @media screen and (max-width: 600px){
   .logo-big{
@@ -849,4 +852,18 @@ label{
   display: block;
   text-align: center;
 }
+}
+.management_data{
+  font-family: 'Nunito Sans', sans-serif;
+}
+.m-head{
+  font-family: 'Nunito Sans', sans-serif;
+}
+.btn{
+   font-family: 'Nunito Sans', sans-serif;
+}
+@media screen and (max-width: 600px){
+ nav .navbar-brand{
+    margin-left: -60px;
+  }
 }

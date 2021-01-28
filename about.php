@@ -78,7 +78,7 @@
                     &nbsp;
                 </div>
                 <div class="col-md-5"><br>
-                    <img class="img-fluid mx-auto d-block team" src="img/slider-1.jpg">
+                    <img class="img-fluid mx-auto d-block team" draggable="false"  src="img/slider-1.jpg">
                 </div>
                 <div class="col-md-5"><br>
                   <p class="teamdet">
@@ -101,28 +101,28 @@
         <div class="container" style="color: #fff;">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/vision.png"> <br></div> <br>
+                    <div class="imgdiv"><img class="mx-auto d-block pngs" draggable="false"  src="img/vision.png"> <br></div> <br>
                     <h3 class="text-center vhead" style="color: #fff;">The Vision</h3> 
                     <p style="color: #fff;" class="text-center vtext">
                        To become the biggest Football Academy in Nigeria, African and all over the world. To produce a world class player for any league and National Team.
                     </p>
                 </div>
                 <div class="col-md-3">
-                     <div class="imgdiv"><img class="mx-auto d-block pngm" src="img/mission.png"> <br></div> <br>
+                     <div class="imgdiv"><img class="mx-auto d-block pngm" draggable="false"  src="img/mission.png"> <br></div> <br>
                    <h3 style="color: #fff;" class="text-center vhead">The Mission</h3> 
                     <p style="color: #fff;" class="text-center vtext">
                       To give equal opportunity to young players of any category or background that is willing to help himself to be a star.
                     </p>
                 </div>
                 <div class="col-md-3">
-                    <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/color.png"> <br></div> <br>
+                    <div class="imgdiv"><img class="mx-auto d-block pngs" draggable="false"  src="img/color.png"> <br></div> <br>
                    <h3 style="color: #fff;" class="text-center vhead">Color</h3> 
                     <p style="color: #fff;" class="text-center vtext">
                       Royal  blue and Sky Blue
                     </p> 
                 </div>
                 <div class="col-md-3">
-                     <div class="imgdiv"><img class="mx-auto d-block pngs" src="img/location.png"> <br></div> <br>
+                     <div class="imgdiv"><img class="mx-auto d-block pngs" draggable="false"  src="img/location.png"> <br></div> <br>
                    <h3 style="color: #fff;" class="text-center vhead">Geographical Location & Training Ground</h3>
                     <p style="color: #fff;" class="text-center vtext">
                         <b>Geographical Location</b> <br>
@@ -142,12 +142,14 @@
                     &nbsp;
                 </div>
                 <div class="col-md-6">
-                    <h3>MR PATRICK A. ADEOLU </h3>
+                    <h3 class="m-head">MR PATRICK A. ADEOLU </h3>
                     <p class="title"><i>CEO P&A Ventures Ltd/P&A Football Academy</i></p>
-                 Was born in the northern part of Nigeria. Play football both Local and International, Played for his great country (Nigeria) at the under 20 level in the year 2001 and under 23 in the year 2003.
+                    <p class="management_data">
+                     Was born in the northern part of Nigeria. Play football both Local and International, Played for his great country (Nigeria) at the under 20 level in the year 2001 and under 23 in the year 2003.
+                    </p>
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid rounded-circle img-thumbnail" src="img/mr-pato.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" draggable="false"  src="img/mr-pato.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
@@ -165,14 +167,16 @@
                 <div class="col-md-6">
                     <h3>MR SYDNEY MATO</h3>
                     <p class="title"><i>The coordinator</i></p>
-                 A graduate of the federal polytechnic kaduna (HND in mineral processing engineering, PGD in management science)  with a certificate from the institute of mentorship and coaching, kaduna state. Married to lovely Temitope Mato and blessed with two great kids Hallelujah and Charis Mato.
+                <p class="management_data">
+                     A graduate of the federal polytechnic kaduna (HND in mineral processing engineering, PGD in management science)  with a certificate from the institute of mentorship and coaching, kaduna state. Married to lovely Temitope Mato and blessed with two great kids Hallelujah and Charis Mato.
                  Had a brief stint with the following clubs, Marafa youths, which metamorphosed to Avante and participated in the national professional league division 3 and Soccer Diplomats fc Barnawa. Captained the polytechnic team for 2years.
                 Founder of Sports consults international a grassroots organization with the sole purpose of talents discovery, development and empowerment through various sporting enterprises.
                 Serving now as the coordinator for P & A Football Academy, Secretary of community peace implementation committee, Zaman Tare, kaduna state, Chairman Community Peace Observers, Barnawa, under the interfaith mediation center kaduna and Head pastor at charis word ministries, kaduna . I welcome you to a journey of fulfilment.
+                </p>
 
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid rounded-circle img-thumbnail" src="img/mato.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" draggable="false" src="img/mato.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
@@ -180,17 +184,17 @@
             </div>
         </div>
     </div>
-    <div class="abtoga">
+    <div class="abtoga management_data">
         <div class="container">
             <div class="row">
                 <div class="col-md-1">
                     &nbsp;
                 </div>
                 <div class="col-md-6">
-                    <h3>Coach Auta Philip Anthony  </h3>
+                    <h3 class="m-head">Coach Auta Philip Anthony  </h3>
                     <p class="title"><i>Head Coach</i></p>
                     <b>PLAYING DAYS</b>
-                    <ul style="list-style-type: disc;">
+                    <ul class="management_data" style="list-style-type: disc;">
                         <li style="list-style-type: square;">Ribadu utd fc Kaduna</li>
                         <li style="list-style-type: square;">Nipost fc kadunä</li>
                         <li style="list-style-type: square;">N.A.C.B fc Kaduna</li>
@@ -218,7 +222,7 @@
                        </ul>
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid rounded-circle img-thumbnail" src="img/coach-auta.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" draggable="false"  src="img/coach-auta.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
@@ -245,7 +249,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid rounded-circle img-thumbnail" src="img/asst-coach.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" draggable="false"  src="img/asst-coach.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
@@ -265,7 +269,7 @@
                    is a lover of football and believe in the unity that football can bring, in respect of tribe, religion or country. Believe that talents can makes one to be great in respect of once background, he study Accounting and Auditing.
                 </div>
                 <div class="col-md-4">
-                 <img class="img-fluid rounded-circle img-thumbnail" src="img/emma.jpg">
+                 <img class="img-fluid rounded-circle img-thumbnail" draggable="false"  src="img/emma.jpg">
                 </div>
                 <div class="col-md-1">
                     &nbsp;
@@ -286,7 +290,7 @@
                     <p class="join">Join Us Today for a better Football Career We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation We Recruit and Market Players of Different Categories of U17, U20 and Above</p>
                 </div>
                 <div class="col-md-5">
-                   <img class="img-fluid nff mx-auto d-block" src="img/nff.png"> 
+                   <img class="img-fluid nff mx-auto d-block" draggable="false"  src="img/nff.png"> 
                 </div>
                 <div class="col-md-1">
                     &nbsp; 
@@ -294,23 +298,23 @@
             </div>
         </div>
     </div>
-    <div style="padding: 50px;" class="bg-info">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3">
-                      <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
+     <div style="padding: 50px;" class="bg-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 training-ground">
+                          <p class="addr"><span class="color">Visit Us Our Training Ground</span> <br>Open Correctional Centre, Television, Kaduna. </p>
+                    </div>
+                     <div class="col-md-3 training-ground">
+                        <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
+                    </div>
+                     <div class="col-md-3 training-ground">
+                       <p class="addr"><span class="color">Call us On </span><br> +234(0) 816 707 9019 <br> +234(0) 818 926 1019 </p>
+                    </div>
+                    <div class="col-md-2 training-ground">
+                        <p class="addr"><span class="color">Send Us a Mail</span> <br> pandaacademy@gmail.com <br> paventures01@gmail.com</p>
+                    </div>
+                    
                 </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Visit Us today @</span> <br> NL 16 Constitution Road, Opp. Ahmadu Bello Stadium, Kaduna, Nigeria. </p>
-                </div>
-                 <div class="col-md-3">
-                    <p class="addr"><span class="color">Call us On </span><br> +234(0)943356733 <br>+234(0)943356733 <br> +234(0)943356733</p>
-                </div>
-                <div class="col-md-2">
-                    <p class="addr"><span class="color">Send Us a Mail</span> <br> p&aacademy@gmail.com <br> p&aacademy@gmail.com</p>
-                </div>
-                
-            </div>
         </div>
     </div>
         <footer data-aos="fade-up" data-aos-duration="2000">
@@ -380,10 +384,11 @@
                         
                        <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/facebook.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/twitter.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/insta.png"></a>&nbsp;&nbsp;&nbsp;
-                            <a href="#"><img class="icon_size" src="img/google.png"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
+                            <a href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
                         </div>
                     </div>
                     
