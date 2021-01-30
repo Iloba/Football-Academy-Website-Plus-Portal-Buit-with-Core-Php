@@ -88,43 +88,47 @@
             </div>
         </div>
     </div> <br>
-    <div class="sectionThree" data-aos="fade-up" data-aos-duration="2000">
-         <div class="col-md-4">
-             <div class="card">
-                 <div class="card-header">
-                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u15.jpg')">
-                                 &nbsp;
+    <div class=" container sectionThree" data-aos="fade-up" data-aos-duration="2000">
+        <div class="container">
+            <div class="row">
+                 <div class="col-md-4">
+                     <div class="card">
+                         <div class="card-header">
+                             <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u15.jpg')">
+                                         &nbsp;
+                            </div>
+                            <div class="card-footer">
+                                Our Under 15 Team
+                            </div>
+                         </div>
                     </div>
-                    <div class="card-footer">
-                        Our Under 15 Team
-                    </div>
+             </div>
+             <div class="col-md-4">
+                 <div class="card">
+                     <div class="card-header">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u17.jpg')">
+                                     &nbsp;
+                        </div>
+                        <div class="card-footer">
+                            Our Under 17 Team
+                        </div>
+                     </div>
                  </div>
              </div>
-         </div>
-         <div class="col-md-4">
-             <div class="card">
-                 <div class="card-header">
-                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/u17.jpg')">
-                                 &nbsp;
-                    </div>
-                    <div class="card-footer">
-                        Our Under 17 Team
-                    </div>
+             <div class="col-md-4">
+                 <div class="card">
+                     <div class="card-header">
+                         <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gal2.jpg')">
+                                     &nbsp;
+                        </div>
+                        <div class="card-footer">
+                            Our Senior Team
+                        </div>
+                     </div>
                  </div>
              </div>
-         </div>
-         <div class="col-md-4">
-             <div class="card">
-                 <div class="card-header">
-                     <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/gal2.jpg')">
-                                 &nbsp;
-                    </div>
-                    <div class="card-footer">
-                        Our Senior Team
-                    </div>
-                 </div>
-             </div>
-         </div>
+        </div>
+        </div>
        
      </div> <br> <br>
     <footer data-aos="fade-up" data-aos-duration="2000">
@@ -198,7 +202,7 @@
                             <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
-                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
+                           <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
                         </div>
                             
                     </div>

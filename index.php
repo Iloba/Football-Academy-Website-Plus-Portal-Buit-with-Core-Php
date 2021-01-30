@@ -68,7 +68,7 @@
             <!-- The slideshow -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img class="slide" src="img/gal2.jpg" alt=" P & A Football Academy">
+                <img class="slide" src="img/gal2.jpeg" alt=" P & A Football Academy">
                 <div class="carousel-caption">
                     <img style="width: 20%;" class="img-fluid" draggable="false"  src="img/logo.png">
                     <h3 class="slider_header">P & A Football Academy</h3>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal1.jpg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="img/gal1.jpeg" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
                     <img style="width: 20%;" class="img-fluid" src="img/logo.png" alt=" P & A Football Academy">
                     <h3 class="slider_header">P & A Football Academy</h3>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal4.jpg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="img/gal4.jpeg" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
                     <img style="width: 20%;" class="img-fluid" src="img/logo.png">
                     <h3 class="slider_header">P & A Football Academy</h3>
@@ -116,7 +116,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal5.jpg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="img/gal5.jpeg" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
                     <h3 class="slider_header">P & A Football Academy</h3>
                    <p class="slider_text"> 
@@ -153,15 +153,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6"> <br> <br>
-                         <h3 style="color: #000;" class=" text-left welcome">Welcome </h3>
+                         <h2 class="welcome"  >Welcome </h2> <br>
                         <p class="htext">
-                           
-                     P&A Football Academy is based in Nigeria and was formed in the year 2013 with the Mission to discover young soccer talents in Nigeria and the rest of Africa and make them better person in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and the Kaduna State Football Association.
-                    We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents. <br>
+                         P&A Football Academy is based in Nigeria and was formed in the year 2013 with the Mission to discover young soccer talents in Nigeria and the rest of Africa and make them better person in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and the Kaduna State Football Association.
+                        We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents. <br>
+
                         </p>
                         <div class="more-abt">
-                            <a class="btn btn-info " href="about.php">See More About Us</a>
-                        </div>
+                            <a class="btn btn-info " href="about.php">See More About Us</a> <br>
+                        </div> <br>
                     </div>
                     <div class="col-md-6 wela">
                        <img class="img-fluid rounded img-thumbnail immg" src="img/slider-1.jpg" draggable="false"  alt=" P & A Football Academy">
@@ -203,7 +203,7 @@
                     <div class="container">
                         <div class="row"><br>
                             <div class="col-md-12"><br> <br> <br> <br>
-                                <h1 id="h1" class="text-center welcome ">P & A Football Academy</h1>
+                                <h2 class=" welcome ">P & A Football Academy</h2>
                                 <h5 class="text-center"><b>Where Dreams, Desires become Realities</b></h5>
                                 <p class="text-center text2">Our aim is to provide the best of facilities, coaching and games programme to create a perfect environment for players to develop and reach their full potentials. We aim to develop players to play in the firs team of different clubs in every part of the world as professional.
                                 Our mission is to give equal opportunity to young players of any category or background that is willing to help himself to be a star. Hardwork and Discipline are our Watchword. We train hard and Smart Daily at our Specified Training Centre located in Kaduna.
@@ -250,7 +250,7 @@
             </div>
         </div>
         <div class="sectionSix" data-aos="fade-up" data-aos-duration="2000" >
-            <h2 class="text-center white welcome">Become A Star Today</h2>
+            <h2 class=" white welcome">Become a Star Today</h2>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
@@ -299,14 +299,14 @@
         <div class="sectiondiv">
             <div class="container">
                 <div class="col-md-12"> <br>
-                    <p class="ttt"> We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
+                    <p class="ttt"> We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation.
                         We Recruit and Market Players of Different Categories of U15, U17 U20 and Above  <br> <a class="btn btn-info" href="about.php">See More</a></p>
                 </div>
             </div>
         </div>
 
         <div class="video" data-aos="fade-up" data-aos-duration="2000">
-            <h1 id="h1" class="text-center welcome ">Watch Our Videos Below</h1> <br>
+            <h2 id="h1" class="text-center welcome ">Watch Our Videos Below</h2> <br>
             <div class="container">
                 <div class="row">
                     <div class="col-md-2">
@@ -332,7 +332,7 @@
         
         <div class="sectionFour" data-aos="fade-up" data-aos-duration="2000">
             <div class="container">
-                <h3 class="welcome text-center">Meet Our Management</h3><br>    
+                <h2 class="welcome">Meet Our Management</h3><br>    
                <div class="row">
                     <div class="col-md-4">  
                         <div class="card">   
@@ -373,7 +373,8 @@
                             <div class="card-body">   
                                 <img class="img-fluid" draggable="false"  src="img/coach-auta.jpg" alt=" P & A Football Academy">
                                 <br> <br>      
-                                <p class="text-center ctt"> Here, at P & A is an Arena of Possibilities. Where individual and collective dreams are turned into realities by God's Special Grace.
+                                <p class="text-center ctt">P & A Football Academy, raises stars and Football Legends of tomorrow. Our Motivation and
+                                    Training Sessions have really developed and Shaped many Football Players into what they are today.
                                 </p>
                                <div style="color: #fff;" class="card-footer">
                                     <h3 style="color: #fff;" class="text-center cn">Coach Auta Philip Anthony </h3>
@@ -391,7 +392,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="mapsection" data-aos="fade-up" data-aos-duration="2000">
-                        <h1 class="text-center welcome">Locate Us today</h1>
+                        <h2 class="text-center welcome">Locate Us today</h2>
                         <div class="map-responsive">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.9623625224945!2d7.431872114285233!3d10.503630667043055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d35647244574b%3A0x690b4de7ddf5d675!2sConstitution%20Rd%2C%20Kaduna!5e0!3m2!1sen!2sng!4v1591707094530!5m2!1sen!2sng" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </div>
@@ -401,7 +402,7 @@
         </div>
         
         <div class="container-fluid">
-              <h1 class="text-center welcome">Photos From Our Gallery</h1> <br>
+              <h2 class="text-center welcome">Photos From Our Gallery</h2> <br>
             <div class="row">
                 <div class="col-md-3">
                     <div class="card">
@@ -619,7 +620,7 @@
 
         <div class="inv" data-aos="fade-up" data-aos-duration="2000">
             <div class="container"><br>
-                <h1 id="h1" class="text-center  welcome">Our Investments</h1><br>
+                <h2 id="h1" class="text-center  welcome">Our Investments</h2><br>
                 <div class="row">
                     
                     <div class="col-md-6">
@@ -749,7 +750,7 @@
 							<a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
-                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design@08185375580</a>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
 						</div>
 							
 					</div>

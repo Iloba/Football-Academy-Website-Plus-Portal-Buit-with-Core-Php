@@ -8,17 +8,16 @@
    font-family: 'Nunito Sans', sans-serif;
 }
 body{
-  margin-top: 0px; 
+/*  margin-top: 0px; 
   margin-bottom: 0px; 
   margin-left: 0px; 
   margin-right: 0px;
-  padding: 0;
+  padding: 0;*/
   background-color: #E2E2E2;
   font-family: Nunito San, sans-serif;
   
 }
 .left{
-	
 	margin-left: 30%;
 }
 footer{
@@ -95,7 +94,7 @@ background: linear-gradient(rgba(0,0,150,.2),rgba(0,0,100,.2)), url(./img/fbg.jp
 }
 #h1{
 	color: #fff;
-  font-size: 40px;
+/*  font-size: 40px;*/
   font-family: 'Nunito Sans', sans-serif;
  
 
@@ -503,9 +502,8 @@ padding: 20px;
 .welcome{
   color: #17a2b8;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 33px;
-  font-weight: bolder;
-  text-transform: capitalize;
+  font-size: 34px;
+  text-align: center;
 }
 .emptydiv{
   padding: 12px;
@@ -696,11 +694,7 @@ box-shadow: -1px 0px 22px 0px rgba(255,252,255,0.34);
   font-size: 14px;
 }
 .white{
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 40px;
-  
-
+  color: #fff;  
 }
 .tt{
   color: #17a2b8;
@@ -816,6 +810,25 @@ label{
    margin: auto;
 
   }
+  .col-md-4, .col-md-3, .col-md-6{
+    margin-bottom: 5px;
+  }
+  .card{
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  div .container {
+     width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  }
+  h4{
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
   .writeup{
     text-align: center;
   }
@@ -836,14 +849,9 @@ label{
     display: block;
     text-align: center;
   }
-  .welcome{
-     margin-left: 65px;
-    text-align: center;
-  }
   .more-abt{
    display: block;
-   margin-left: 65px;
-   margin-bottom: 12px;
+  margin: auto;
 }
 .immg{
   width: 100%;
@@ -866,4 +874,13 @@ label{
  nav .navbar-brand{
     margin-left: -60px;
   }
+  .div-mobile{
+    display: block;
+    margin: auto;
+  }
 }
+/*.allheaders{
+  color: #000;
+  text-align: center;
+}
+style="color: #000; text-align: center; font-size: 30px;"*/
