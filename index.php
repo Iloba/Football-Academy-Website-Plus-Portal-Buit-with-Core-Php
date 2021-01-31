@@ -68,9 +68,9 @@
             <!-- The slideshow -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img class="slide" src="img/gal2.jpeg" alt=" P & A Football Academy">
+                <img class="slide" src="./img/gal2.JPG" alt=" P & A Football Academy">
                 <div class="carousel-caption">
-                    <img style="width: 20%;" class="img-fluid" draggable="false"  src="img/logo.png">
+                   
                     <h3 class="slider_header">P & A Football Academy</h3>
                     <p class="slider_text"> 
                         We are Fully Registered with the Nigerian Football Federation and Affiliated with the Nigerian Football Federation
@@ -80,9 +80,9 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal1.jpeg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="./img/slider-5.JPG" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
-                    <img style="width: 20%;" class="img-fluid" src="img/logo.png" alt=" P & A Football Academy">
+                   
                     <h3 class="slider_header">P & A Football Academy</h3>
                    <p class="slider_text"> 
                          We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
@@ -92,9 +92,8 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal3.jpg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="./img/slider-4.JPG" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
-                    <img style="width: 20%;" class="img-fluid" src="img/logo.png" alt=" P & A Football Academy">
                     <h3 class="slider_header">P & A Football Academy</h3>
                     <p class="slider_text"> 
                         We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
@@ -104,9 +103,9 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal4.jpeg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="./img/slider-3.JPG" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
-                    <img style="width: 20%;" class="img-fluid" src="img/logo.png">
+                   
                     <h3 class="slider_header">P & A Football Academy</h3>
                     <p class="slider_text"> 
                        We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
@@ -116,22 +115,11 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img class="slide" src="img/gal5.jpeg" draggable="false"  alt=" P & A Football Academy">
+                <img class="slide" src="./img/slider-2.JPG" draggable="false"  alt=" P & A Football Academy">
                 <div class="carousel-caption">
                     <h3 class="slider_header">P & A Football Academy</h3>
                    <p class="slider_text"> 
                        We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
-                        We Recruit and Market Players of Different Categories of U15, U17 U20 and Above
-                    </p>
-                    <a href="about.php" class="btn btn-lg btn-yellow">Join Us Today</a>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                <img class="slide" src="img/slider6.jpg" draggable="false"  alt=" P & A Football Academy">
-               <div class="carousel-caption">
-                    <h3 class="slider_header">P & A Football Academy</h3>
-                    <p class="slider_text"> 
-                        We are Fully Registered with the FA and Affiliated with the Nigerian Football Federation
                         We Recruit and Market Players of Different Categories of U15, U17 U20 and Above
                     </p>
                     <a href="about.php" class="btn btn-lg btn-yellow">Join Us Today</a>
@@ -203,7 +191,7 @@
                     <div class="container">
                         <div class="row"><br>
                             <div class="col-md-12"><br> <br> <br> <br>
-                                <h2 class=" welcome ">P & A Football Academy</h2>
+                                <h2 style="color: #fff;" class=" welcome ">P & A Football Academy</h2>
                                 <h5 class="text-center"><b>Where Dreams, Desires become Realities</b></h5>
                                 <p class="text-center text2">Our aim is to provide the best of facilities, coaching and games programme to create a perfect environment for players to develop and reach their full potentials. We aim to develop players to play in the firs team of different clubs in every part of the world as professional.
                                 Our mission is to give equal opportunity to young players of any category or background that is willing to help himself to be a star. Hardwork and Discipline are our Watchword. We train hard and Smart Daily at our Specified Training Centre located in Kaduna.
@@ -237,20 +225,20 @@
                 <div class="container"> <br>
                     <div class="row">
                         <div class="col-md-4">
-                        <h2 style="  line-height: 50px;" >We have Over <br> <div data-target="200" class="counter">0</div>  </h2> <h5>Under15 Football Players</h5>
+                        <h2 style="  line-height: 50px;" >We have Over <br> <div data-target="35" class="counter">0</div>  </h2> <h5>Under15 Football Players</h5>
                     </div>
                      <div class="col-md-4">
-                        <h2  style="  line-height: 50px;" >We have over <br> <div data-target="200" class="counter">0</div> </h2> <h5>Under17 Football Players</h5>
+                        <h2  style="  line-height: 50px;" >We have over <br> <div data-target="25" class="counter">0</div> </h2> <h5>Under17 Football Players</h5>
                     </div>
                      <div class="col-md-4">
-                        <h2 style="  line-height: 50px;" >We have over <br> <div data-target="200" class="counter">0</div></h2> <h5>Under20, Under23 and Youth Players</h5>
+                        <h2 style="  line-height: 50px;" >We have over <br> <div data-target="15" class="counter">0</div></h2> <h5>Under20, Under23 and Youth Players</h5>
                     </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="sectionSix" data-aos="fade-up" data-aos-duration="2000" >
-            <h2 class=" white welcome">Become a Star Today</h2>
+            <h2 class=" white welcome">Become a Star Today</h2><br>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
@@ -282,7 +270,7 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body"> 
-                                    <img class="img-fluid" src="img/t4.jpg" draggable="false"  alt=" P & A Football Academy"><br> <br>    
+                                    <img class="img-fluid" src="./img/t4.JPG" draggable="false"  alt=" P & A Football Academy"><br> <br>    
                                     <center><h3 class="tt"> Our U18, U19, Team</h3></center>
                                     <p class="text-center ctt">Join Our U18, U19 Team Today and become a Professional as you will be exposed to 
                                     New Environments and Proffessional Figures which you build you into the Star that you are  </p>
@@ -314,7 +302,7 @@
                 </div>
                  <div class="col-md-8">
                      <div class="iframe">
-                       <iframe width="560" height="315" src="https://www.youtube.com/embed/bBH7492kqIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       <iframe  width="560" height="315" src="https://www.youtube.com/embed/bBH7492kqIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                      </div>
                 </div>
                  <div class="col-md-2">
@@ -331,7 +319,7 @@
         
         
         <div class="sectionFour" data-aos="fade-up" data-aos-duration="2000">
-            <div class="container">
+            <div class="container"><br>
                 <h2 class="welcome">Meet Our Management</h3><br>    
                <div class="row">
                     <div class="col-md-4">  
@@ -401,17 +389,17 @@
             </div>
         </div>
         
-        <div class="container-fluid">
+        <div class="container-fluid"><br>
               <h2 class="text-center welcome">Photos From Our Gallery</h2> <br>
             <div class="row">
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body">
-                           <div style="height: 250px; background: transparent no-repeat  top center; background-size:cover; background-image: url('img/npfl.jpg')">
+                           <div style="height: 250px; background: transparent no-repeat  top center; background-size:cover; background-image: url('./img/bg3.JPG')">
                                  &nbsp;
                             </div>
                              <div class=" card-footer">
-                            <p class="text-center">Our of our Players Now in a Nigerian Premier League Side</p>
+                            <p class="text-center">Training Session</p>
                         </div>
                         </div>
                        
@@ -420,7 +408,7 @@
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body">
-                            <img class="img-fluid img-thumbnail" src="img/tr1.jpg " draggable="false"  alt=" P & A Football Academy">
+                            <img class="img-fluid img-thumbnail" src="img/bg6.JPG" draggable="false"  alt=" P & A Football Academy">
                               <div class=" card-footer">
                             <p class="text-center">Training Sessions </p>
                         </div>
@@ -455,7 +443,7 @@
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body">
-                            <img class="img-fluid img-thumbnail" src="img/tr3.jpg "  draggable="false"  alt=" P & A Football Academy"> <br>
+                            <img class="img-fluid img-thumbnail" src="img/bg7.JPG"  draggable="false"  alt=" P & A Football Academy"> <br>
                              <div class=" card-footer">
                             <p class="text-center">Photo from our Training Session</p>
                         </div>
@@ -466,11 +454,11 @@
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body">
-                          <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/gal6.jpg')">
+                          <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('./img/bg&.JPG')">
                                  &nbsp;
                             </div>
                              <div class=" card-footer">
-                            <p class="text-center">Our President Presenting a Medal to One of Our Players</p>
+                            <p class="text-center">Training Sessions</p>
                         </div>
                         </div>
                         
@@ -502,120 +490,6 @@
                 </div>
             </div>
         </div>
-
-         <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <img class="img-fluid img-thumbnail" src="img/goalkeeper.jpg " draggable="false"  alt=" P & A Football Academy"> <br>
-                             <div class=" card-footer">
-                            <p class="text-center">One of the Best of the Best Goal Keepers in The Nigerian Premier League Side</p>
-                        </div>
-                        </div>
-                       
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                           <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/pres-boy.jpg')">
-                                 &nbsp;
-                            </div>
-                              <div class=" card-footer">
-                            <p class="text-center">The Academy President and One of His Best Boys</p>
-                        </div>
-                        </div>
-                       
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/tr5.jpg')">
-                                 &nbsp;
-                            </div>
-                             <div class=" card-footer">
-                            <p class="text-center">Photo From One of Training Sessions</p>
-                        </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/tr7.jpg')">
-                                 &nbsp;
-                            </div>
-                            <div class=" card-footer">
-                            <p class="text-center">Photo From One of Training Sessions</p>
-                        </div>
-                        </div>
-                         
-                    </div>
-                </div>
-            </div> <br>
-             <div class="row">
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                             <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/tr8.jpg')">
-                                 &nbsp;
-                            </div>
-                             <div class=" card-footer">
-                            <p class="text-center">Photo From One of Our Matches</p>
-                        </div>
-                        </div>
-                       
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                          <div style="height: 250px; background: transparent no-repeat top center; background-size:cover; background-image: url('img/tr8.jpg')">
-                                 &nbsp;
-                            </div>
-                             <div class=" card-footer">
-                            <p class="text-center">Training Session</p>
-                        </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                             <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/tr9.jpg')">
-                                 &nbsp;
-                            </div>
-                            <div class=" card-footer">
-                            <p class="text-center">Training Session</p>
-                        </div>
-                        </div>
-                         
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('img/player-55.jpg')">
-                                 &nbsp;
-                            </div>
-                             <div class=" card-footer">
-                            <p class="text-center">Football Match Action</p>
-                        </div>
-                        </div>
-                        <br>
-                    </div> <br>
-                </div> <br>
-                <a href="gallery.php" class="btn btn-danger btn-block">Go to Gallery</a> <br>
-            </div>
-        </div>
-        
-
-
-
         <br> <br>
 
         <div class="inv" data-aos="fade-up" data-aos-duration="2000">
@@ -682,7 +556,7 @@
 			<div class="container-fluid">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-2"><br><br>
+							<div class="col-md-3"><br><br>
 								&nbsp;
 							</div>
 							<div class="col-md-2 "><br><br>
@@ -706,17 +580,6 @@
 								
 							</div>
 							<div class="col-md-2"><br><br>
-								<h5>Language</h5>
-								<br>
-								<p class="height">
-									<a class="footer_link" href="#">English</a><br>
-									<a class="footer_link" href="#">Espanyol</a><br>
-									<a class="footer_link" href="#">French</a><br>
-									<a class="footer_link" href="#">Deutsch</a><br>
-									<a class="footer_link" href="#">More....</a>
-								</p>
-							</div>
-							<div class="col-md-2"><br><br>
 								<h5>About Us</h5>
 								<br>
 								<p class="height">
@@ -727,7 +590,7 @@
                                     <a class="footer_link" href="login.php" target="_blank">Admin</a><br>
 								</p>
 							</div>
-							<div class="col-md-2"><br><br>
+							<div class="col-md-3"><br><br>
 								&nbsp;
 							</div>
 							
@@ -749,7 +612,7 @@
 							<a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
 							<a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
-							<a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
+							<a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/Linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
                             <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
 						</div>
 							

@@ -68,7 +68,7 @@
                                     <li><a href="admin_profile.php" target="_blank">Your Profile</a></li>
                                     <li><a href="admin_editprofile.php?edita=<?php echo $_SESSION['id'];  ?>" target="_blank">Edit Profile</a></li>
                                     <li class="divider"></li>
-                                    <li><a href="apa.php?logout='1'">Logout</a></li>
+                                    <li><a href="apa.php?logout">Logout</a></li>
                                 </ul>
                             </li>
                         </ul>

@@ -131,17 +131,17 @@
         </div>
        
      </div> <br> <br>
-    <footer data-aos="fade-up" data-aos-duration="2000">
+   <footer data-aos="fade-up" data-aos-duration="2000">
             <div class="container-fluid">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-2"><br><br>
+                            <div class="col-md-3"><br><br>
                                 &nbsp;
                             </div>
                             <div class="col-md-2 "><br><br>
                                 <h5>Our Network</h5>
                                 <br>
-                               <p class="height">
+                                <p class="height">
                                     <a class="footer_link" href="about.php">Address</a><br>
                                     <a class="footer_link" href="about.php">Phone</a><br>
                                     <a class="footer_link" href="about.php">Email</a><br>   
@@ -159,17 +159,6 @@
                                 
                             </div>
                             <div class="col-md-2"><br><br>
-                                <h5>Language</h5>
-                                <br>
-                                <p class="height">
-                                    <a class="footer_link" href="#">English</a><br>
-                                    <a class="footer_link" href="#">Espanyol</a><br>
-                                    <a class="footer_link" href="#">French</a><br>
-                                    <a class="footer_link" href="#">Deutsch</a><br>
-                                    <a class="footer_link" href="#">More....</a>
-                                </p>
-                            </div>
-                            <div class="col-md-2"><br><br>
                                 <h5>About Us</h5>
                                 <br>
                                 <p class="height">
@@ -177,9 +166,10 @@
                                     <a class="footer_link" href="team.php">Our Team</a><br>
                                     <a class="footer_link" href="players.php">Our Players</a><br>
                                     <a class="footer_link" href="contact.php">Contact Us</a><br>
+                                    <a class="footer_link" href="login.php" target="_blank">Admin</a><br>
                                 </p>
                             </div>
-                            <div class="col-md-2"><br><br>
+                            <div class="col-md-3"><br><br>
                                 &nbsp;
                             </div>
                             
@@ -196,13 +186,13 @@
                 <div class="row">
                     <div class="col-md-5">
                         
-                       <div class="flex">
+                        <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://www.instagram.com/p_a_football_academy/"><img class="icon_size" src="img/insta.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
-                           <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
+                            <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
                         </div>
                             
                     </div>

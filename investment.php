@@ -196,71 +196,61 @@
     </div>
     <br> <br>
     <footer data-aos="fade-up" data-aos-duration="2000">
-		<div class="container-fluid">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-2"><br><br>
-							&nbsp;
-						</div>
-						<div class="col-md-2 "><br><br>
-							<h5>Our Network</h5>
-							<br>
-							<p class="height">
-                                <a class="footer_link" href="about.php">Address</a><br>
-                                <a class="footer_link" href="about.php">Phone</a><br>
-                                <a class="footer_link" href="about.php">Email</a><br>   
-                            </p>
-						</div>
-						<div class="col-md-2"><br><br>
-							<h5>Site Links</h5>
-							<br>
-							<p class="height">
-								<a class="footer_link" href="index.php">Home</a><br>
-								<a class="footer_link" href="about.php">About</a><br>
-								<a class="footer_link" href="team.php">Our Team</a><br>
-								<a class="footer_link" href="players.php">Players</a><br>
-							</p>
-							
-						</div>
-						<div class="col-md-2"><br><br>
-							<h5>Language</h5>
-							<br>
-							<p class="height">
-								<a class="footer_link" href="#">English</a><br>
-								<a class="footer_link" href="#">Espanyol</a><br>
-								<a class="footer_link" href="#">French</a><br>
-								<a class="footer_link" href="#">Deutsch</a><br>
-								<a class="footer_link" href="#">More....</a>
-							</p>
-						</div>
-						<div class="col-md-2"><br><br>
-							<h5>About Us</h5>
-							<br>
-							<p class="height">
-								<a class="footer_link" href="about.php">About Us</a><br>
-								<a class="footer_link" href="team.php">Our Team</a><br>
-								<a class="footer_link" href="players.php">Our Players</a><br>
-								<a class="footer_link" href="contact.php">Contact Us</a><br>
-							</p>
-						</div>
-						<div class="col-md-2"><br><br>
-							&nbsp;
-						</div>
-						
-					</div> <br> <br>
-				</div>	
+            <div class="container-fluid">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3"><br><br>
+                                &nbsp;
+                            </div>
+                            <div class="col-md-2 "><br><br>
+                                <h5>Our Network</h5>
+                                <br>
+                                <p class="height">
+                                    <a class="footer_link" href="about.php">Address</a><br>
+                                    <a class="footer_link" href="about.php">Phone</a><br>
+                                    <a class="footer_link" href="about.php">Email</a><br>   
+                                </p>
+                            </div>
+                            <div class="col-md-2"><br><br>
+                                <h5>Site Links</h5>
+                                <br>
+                                <p class="height">
+                                    <a class="footer_link" href="index.php">Home</a><br>
+                                    <a class="footer_link" href="about.php">About</a><br>
+                                    <a class="footer_link" href="team.php">Our Team</a><br>
+                                    <a class="footer_link" href="players.php">Players</a><br>
+                                </p>
+                                
+                            </div>
+                            <div class="col-md-2"><br><br>
+                                <h5>About Us</h5>
+                                <br>
+                                <p class="height">
+                                    <a class="footer_link" href="about.php">About Us</a><br>
+                                    <a class="footer_link" href="team.php">Our Team</a><br>
+                                    <a class="footer_link" href="players.php">Our Players</a><br>
+                                    <a class="footer_link" href="contact.php">Contact Us</a><br>
+                                    <a class="footer_link" href="login.php" target="_blank">Admin</a><br>
+                                </p>
+                            </div>
+                            <div class="col-md-3"><br><br>
+                                &nbsp;
+                            </div>
+                            
+                        </div> <br> <br>
+                    </div>  
 
-				</div>
-		</div>
-		<!---line--->
-		<div class="line">
-				<hr style="border: 0.5px solid #fff;">
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-5">
-					
-				<div class="flex">
+                    </div>
+            </div>
+            <!---line--->
+            <div class="line">
+                    <hr style="border: 0.5px solid #fff;">
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5">
+                        
+                        <div class="flex">
                             <a class="footer_link" href="index.php"><h5>P & A Football Academy</h5></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://www.facebook.com/PA-Football-Academy-106349401441629"><img class="icon_size" src="img/facebook.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
                             <a target="_blank" href="https://twitter.com/PAFootballAcad1"><img class="icon_size" src="img/twitter.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp;
@@ -268,22 +258,22 @@
                             <a  target="_blank" href="https://www.linkedin.com/in/p-a-football-academy-kaduna-bb5531205/"><img class="icon_size" src="img/linkedin.png" alt=" P & A Football Academy"></a>&nbsp;&nbsp;&nbsp; <br>
                             <a  target="_blank" style="font-size: 12px;" href="https://sney.netlify.app">Website Design</a>
                         </div>
-						
-				</div>
-				
-				<div class="col-md-1">
-					&nbsp;
-				</div>
-				<div class="col-md-6">
-					<span>&copy; P  & A Football Academy, All rights Reserved  Terms of Use | Privacy Policy</span>
-					 <div class="share"><div class="sharethis-inline-share-buttons"></div></div>
-				</div>
-			</div>
-		</div>
-		<div class="line">
-			<hr style="border: 0.5px solid #fff;">
-		</div><br>
-</footer>
+                            
+                    </div>
+                    
+                    <div class="col-md-1">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-6">
+                        <span>&copy; P  & A Football Academy, All rights Reserved  Terms of Use | Privacy Policy</span>
+                         <div class="share"><div class="sharethis-inline-share-buttons"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="line">
+                <hr style="border: 0.5px solid #fff;">
+            </div><br>
+    </footer>
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     
