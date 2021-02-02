@@ -63,6 +63,8 @@
                 <li data-target="#demo" data-slide-to="0" class="active"></li>
                 <li data-target="#demo" data-slide-to="1"></li>
                 <li data-target="#demo" data-slide-to="2"></li>
+                 <li data-target="#demo" data-slide-to="3"></li>
+                  <li data-target="#demo" data-slide-to="4"></li>
             </ul>
             
             <!-- The slideshow -->
@@ -144,12 +146,11 @@
                          <h2 class="welcome"  >Welcome </h2> <br>
                         <p class="htext">
                          P&A Football Academy is based in Nigeria and was formed in the year 2013 with the Mission to discover young soccer talents in Nigeria and the rest of Africa and make them better person in the society. The academy is duly registered and affiliated with the Nigeria Football Federation and the Kaduna State Football Association.
-                        We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents. <br>
-
+                        We believe in the numerous Human and natural resources that Nigeria and Africa posses most especially in the football industry and P&A Football Academy was setup to enable us recognize and deploy these talents. <br> <br>
+                        <a  class="btn btn-info more-abt " href="about.php">See More About Us</a> <br>
                         </p>
-                        <div class="more-abt">
-                            <a class="btn btn-info " href="about.php">See More About Us</a> <br>
-                        </div> <br>
+                            
+                       
                     </div>
                     <div class="col-md-6 wela">
                        <img class="img-fluid rounded img-thumbnail immg" src="img/slider-1.jpg" draggable="false"  alt=" P & A Football Academy">
@@ -454,7 +455,7 @@
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body">
-                          <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('./img/bg&.JPG')">
+                          <div style="height: 250px; background: transparent no-repeat center; background-size:cover; background-image: url('./img/bg8.JPG')">
                                  &nbsp;
                             </div>
                              <div class=" card-footer">

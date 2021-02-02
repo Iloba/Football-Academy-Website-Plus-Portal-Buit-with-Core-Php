@@ -7,6 +7,16 @@
   list-style: none;
    font-family: 'Nunito Sans', sans-serif;
 }
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body{
   margin-top: 0px; 
   margin-bottom: 0px; 
@@ -537,7 +547,7 @@ padding: 20px;
 }
 .gallerywelcome{
   padding: 60px;
-  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.2)), url(./img/slider-4.jpg) 50% 0 #2ac194;
+  background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.2)), url(./img/slider-4.JPG) 50% 0 #2ac194;
    background-attachment: fixed;
    background-size: cover;
    background-position: center center;
@@ -904,8 +914,7 @@ label{
 }
   .more-abt{
     display: block;
-    width: 100%;
-  margin: auto;
+    margin: auto;
 }
 /*.goto{
   padding: 10px;
@@ -915,5 +924,10 @@ label{
   display: block;
   margin: auto;
   padding: auto;
+}
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 }
